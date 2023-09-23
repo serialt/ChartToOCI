@@ -3,8 +3,8 @@
 # Author        : serialt
 # Email         : tserialt@gmail.com
 # Created Time  : 2023-09-24 00:27:26
-# Last modified : 2023-09-24 02:02:51
-# FilePath      : /migrate-chart/repolist.sh
+# Last modified : 2023-09-24 02:10:45
+# FilePath      : /migrate-chart/sync.sh
 # Other         : 
 #               : 
 # 
@@ -43,11 +43,11 @@ OCI_PASSWORD="${OCI_PASSWORD}"
 # add repo 
 AddRepo(){
     for _repo in chart_repo 
-do 
-    repo_name=`echo ${_repo} | awk -F'|' '{print $1}'`
-    repo_url=`echo ${_repo} | awk -F'|' '{print $2}'`
-    helm repo add ${repo_name} ${repo_url}
-done 
+        do 
+            repo_name=`echo ${_repo} | awk -F'|' '{print $1}'`
+            repo_url=`echo ${_repo} | awk -F'|' '{print $2}'`
+            helm repo add ${repo_name} ${repo_url}
+        done 
 }
 
 # Download chart 
@@ -93,7 +93,7 @@ pushChart(){
 
 ## main
 echo ${OCI_PASSWORD} | helm registry login -u ${OCI_USERNAME}  ${OCI_REPO_DOMAIN} --password-stdin 
-
+AddRepo
 
 for aobj in ${charts[@]}
     do
