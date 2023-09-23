@@ -1,0 +1,27 @@
+name: sync
+
+on:
+  push:
+    branches:
+      - master
+      - main
+  schedule:
+    - cron: "0 2 * * 2"
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  sync-oci:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Install Helm
+      uses: azure/setup-helm@v3
+
+    - name: sync to oci
+      env:
+        OCI_REPO_DOMAIN: ${{ secrets.OCI_REPO_DOMAIN }}
+        OCI_USERNAME: ${{ secrets.OCI_USERNAME }}
+        OCI_PASSWORD: ${{ secrets.OCI_PASSWORD }}
+      run: |
+        bash sync.sh
