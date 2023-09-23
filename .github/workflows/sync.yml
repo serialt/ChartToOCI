@@ -37,8 +37,9 @@ jobs:
         git config --global --add safe.directory /github/workspace
         git add charts.txt
         git commit -m "feat: add (Github Actions Automatically Built in `date +"%Y-%m-%d %H:%M"`)"
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          ssh: true
-          branch: ${{ github.ref }}  
+    
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        ssh: true
+        branch: ${{ github.ref }}  
