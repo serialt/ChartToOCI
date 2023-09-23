@@ -3,7 +3,7 @@
 # Author        : serialt
 # Email         : tserialt@gmail.com
 # Created Time  : 2023-09-24 00:27:26
-# Last modified : 2023-09-24 02:15:32
+# Last modified : 2023-09-24 03:02:27
 # FilePath      : /migrate-chart/sync.sh
 # Other         : 
 #               : 
@@ -24,6 +24,19 @@ charts=(
 bitnami,gitea
 bitnami,nginx
 bitmani,minio
+bitmani,redis
+bitmani,mysql
+bitmani,keycloak
+bitmani,rabbitmq
+bitmani,mongodb
+bitmani,mariadb
+bitmani,elasticsearch
+bitmani,etcd
+bitmani,influxdb
+bitmani,harbor
+bitmani,cert-manager
+bitmani,sonarqube
+bitmani,postgresql
 grafana,grafana
 grafana,loki-stack
 istio,base
@@ -101,11 +114,12 @@ for aobj in ${charts[@]}
         arr=(${aobj//,/ })
         repo_name=${arr[0]}
         chart_name=${arr[1]}
-
+        # echo ${repo_name} ${chart_name}
         DownloadChart ${repo_name} ${chart_name}
-        pushChart ${OCI_REPO}
+        
     done
-
+pushChart ${OCI_REPO}
 #
+echo "" >> ${workspace}/charts.txt
 helm registry logout ${OCI_REPO_DOMAIN}
 unset OCI_PASSWORD

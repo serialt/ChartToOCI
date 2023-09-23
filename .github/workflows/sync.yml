@@ -15,6 +15,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
+        with:
+          ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
+          persist-credentials: true
+
     - name: Install Helm
       uses: azure/setup-helm@v3
 
@@ -25,3 +29,16 @@ jobs:
         OCI_PASSWORD: ${{ secrets.OCI_PASSWORD }}
       run: |
         bash sync.sh
+    
+    - name: commit to github
+      run: |
+        git config --global user.email "tserialt@gmail.com"
+        git config --global user.name "serialt"
+        git config --global --add safe.directory /github/workspace
+        git add charts.txt
+        git commit -m "feat: add (Github Actions Automatically Built in `date +"%Y-%m-%d %H:%M"`)"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          ssh: true
+          branch: ${{ github.ref }}  
