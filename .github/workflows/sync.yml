@@ -23,14 +23,16 @@ jobs:
       uses: azure/setup-helm@v3
 
     - name: sync to oci
+      id: sync_to_oci
       env:
         OCI_REPO_DOMAIN: ${{ secrets.OCI_REPO_DOMAIN }}
         OCI_USERNAME: ${{ secrets.OCI_USERNAME }}
         OCI_PASSWORD: ${{ secrets.OCI_PASSWORD }}
       run: |
-        bash sync.sh
+        bash -x sync.sh
     
     - name: commit to github
+      if: ${{ steps.sync_to_oci.outputs.SET_COMMIT != '' }}
       run: |
         git config --global user.email "tserialt@gmail.com"
         git config --global user.name "serialt"
@@ -39,6 +41,7 @@ jobs:
         git commit -m "feat: add (Github Actions Automatically Built in `date +"%Y-%m-%d %H:%M"`)"
     
     - name: Push changes
+      if: ${{ steps.sync_to_oci.outputs.SET_COMMIT != '' }}
       uses: ad-m/github-push-action@master
       with:
         ssh: true

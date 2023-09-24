@@ -3,7 +3,7 @@
 # Author        : serialt
 # Email         : tserialt@gmail.com
 # Created Time  : 2023-09-24 00:27:26
-# Last modified : 2023-09-24 03:02:27
+# Last modified : 2023-09-24 09:31:39
 # FilePath      : /migrate-chart/sync.sh
 # Other         : 
 #               : 
@@ -98,6 +98,7 @@ pushChart(){
                 helm push ${i} ${OCI_REPO}/${OCI_USERNAME}
                 if [ $? == 0 ] ;then
                     echo ${i} >> ${workspace}/charts.txt
+                    echo "SET_COMMIT=sugar" >> $GITHUB_OUTPUT
                 fi
             fi
 
