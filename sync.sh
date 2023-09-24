@@ -3,7 +3,7 @@
 # Author        : serialt
 # Email         : tserialt@gmail.com
 # Created Time  : 2023-09-24 00:27:26
-# Last modified : 2023-09-24 09:58:04
+# Last modified : 2023-09-24 10:43:12
 # FilePath      : /migrate-chart/sync.sh
 # Other         : 
 #               : 
@@ -21,20 +21,20 @@ grafana,"https://grafana.github.io/helm-charts"
 charts=(
 bitnami,gitea
 bitnami,nginx
-bitmani,minio
-bitmani,redis
-bitmani,mysql
-bitmani,keycloak
-bitmani,rabbitmq
-bitmani,mongodb
-bitmani,mariadb
-bitmani,elasticsearch
-bitmani,etcd
-bitmani,influxdb
-bitmani,harbor
-bitmani,cert-manager
-bitmani,sonarqube
-bitmani,postgresql
+bitnami,minio
+bitnami,redis
+bitnami,mysql
+bitnami,keycloak
+bitnami,rabbitmq
+bitnami,mongodb
+bitnami,mariadb
+bitnami,elasticsearch
+bitnami,etcd
+bitnami,influxdb
+bitnami,harbor
+bitnami,cert-manager
+bitnami,sonarqube
+bitnami,postgresql
 grafana,grafana
 grafana,loki-stack
 istio,base
@@ -50,6 +50,8 @@ workspace=`pwd`
 OCI_REPO="oci://${OCI_REPO_DOMAIN}"
 OCI_USERNAME="${OCI_USERNAME}"
 OCI_PASSWORD="${OCI_PASSWORD}"
+
+SET_COMMIT=""
 
 # add repo 
 AddRepo(){
@@ -99,6 +101,7 @@ pushChart(){
                 if [ $? == 0 ] ;then
                     echo ${i} >> ${workspace}/charts.txt
                     echo "SET_COMMIT=sugar" >> $GITHUB_OUTPUT
+                    SET_COMMIT=sugar
                 fi
             fi
 
@@ -120,6 +123,7 @@ for aobj in ${charts[@]}
     done
 pushChart ${OCI_REPO}
 #
-echo "" >> ${workspace}/charts.txt
+[ ${SET_COMMIT} != '' ] && echo "" >> ${workspace}/charts.txt
+
 helm registry logout ${OCI_REPO_DOMAIN}
 unset OCI_PASSWORD
