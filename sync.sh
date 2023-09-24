@@ -3,7 +3,7 @@
 # Author        : serialt
 # Email         : tserialt@gmail.com
 # Created Time  : 2023-09-24 00:27:26
-# Last modified : 2023-09-24 09:31:39
+# Last modified : 2023-09-24 09:58:04
 # FilePath      : /migrate-chart/sync.sh
 # Other         : 
 #               : 
@@ -13,11 +13,9 @@
 # ***********************************************************************
 
 chart_repo=(
-bitnami="https://charts.bitnami.com/bitnami"
-istio="https://istio-release.storage.googleapis.com/charts"
-grafana="https://grafana.github.io/helm-charts"
-bitnami="https://charts.bitnami.com/bitnami"
-bitnami_chart="nginx "
+bitnami,"https://charts.bitnami.com/bitnami"
+istio,"https://istio-release.storage.googleapis.com/charts"
+grafana,"https://grafana.github.io/helm-charts"
 )
 
 charts=(
@@ -55,13 +53,15 @@ OCI_PASSWORD="${OCI_PASSWORD}"
 
 # add repo 
 AddRepo(){
-    for _repo in ${chart_repo} 
-        do 
-            echo ${_repo}
-            repo_name=`echo ${_repo} | awk -F'=' '{print $1}'`
-            repo_url=`echo ${_repo} | awk -F'=' '{print $2}'`
-            helm repo add ${repo_name} ${repo_url}
-        done 
+    for aobj in ${chart_repo[@]}
+    do
+        repo_=(${aobj//,/ })
+        repo_name=${repo_[0]}
+        repo_url=${repo_[1]}
+        helm repo add ${repo_name} ${repo_url}
+        
+    done
+
 }
 
 # Download chart 
@@ -115,7 +115,6 @@ for aobj in ${charts[@]}
         arr=(${aobj//,/ })
         repo_name=${arr[0]}
         chart_name=${arr[1]}
-        # echo ${repo_name} ${chart_name}
         DownloadChart ${repo_name} ${chart_name}
         
     done

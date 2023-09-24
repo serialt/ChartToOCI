@@ -384,8 +384,4 @@ nginx-intel-2.1.4.tgz
 nginx-intel-2.1.5.tgz
 nginx-intel-2.1.8.tgz
 nginx-intel-2.1.9.tgz
-
-
-
 nginx-ingress-controller-9.8.5.tgz
-
