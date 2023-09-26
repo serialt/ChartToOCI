@@ -2593,3 +2593,10 @@ sonarqube-3.3.0.tgz
 sonarqube-3.3.1.tgz
 sonarqube-3.3.2.tgz
 
+minio-12.8.9.tgz
+mongodb-14.0.1.tgz
+nginx-15.3.1.tgz
+postgresql-12.12.7.tgz
+rabbitmq-12.1.7.tgz
+sonarqube-3.3.3.tgz
+
