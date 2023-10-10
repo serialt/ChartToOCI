@@ -3,7 +3,7 @@
 # Author        : serialt
 # Email         : tserialt@gmail.com
 # Created Time  : 2023-09-24 00:27:26
-# Last modified : 2023-10-10 16:04:37
+# Last modified : 2023-10-10 16:09:54
 # FilePath      : /migrate-chart/sync.sh
 # Other         : 
 #               : 
@@ -19,6 +19,7 @@ grafana,"https://grafana.github.io/helm-charts"
 )
 
 charts=(
+hashicorp,vault
 bitnami,gitea
 bitnami,nginx
 bitnami,minio
@@ -40,7 +41,6 @@ grafana,loki-stack
 istio,base
 istio,istiod
 istio,gateway
-hashicorp,vault
 )
 
 # workspace
