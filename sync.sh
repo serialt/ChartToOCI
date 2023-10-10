@@ -3,7 +3,7 @@
 # Author        : serialt
 # Email         : tserialt@gmail.com
 # Created Time  : 2023-09-24 00:27:26
-# Last modified : 2023-09-24 10:43:12
+# Last modified : 2023-10-10 16:04:37
 # FilePath      : /migrate-chart/sync.sh
 # Other         : 
 #               : 
@@ -40,6 +40,7 @@ grafana,loki-stack
 istio,base
 istio,istiod
 istio,gateway
+hashicorp,vault
 )
 
 # workspace
