@@ -3,7 +3,7 @@
 # Author        : serialt
 # Email         : tserialt@gmail.com
 # Created Time  : 2023-09-24 00:27:26
-# Last modified : 2023-10-10 16:09:54
+# Last modified : 2023-10-11 13:11:24
 # FilePath      : /migrate-chart/sync.sh
 # Other         : 
 #               : 
@@ -16,6 +16,7 @@ chart_repo=(
 bitnami,"https://charts.bitnami.com/bitnami"
 istio,"https://istio-release.storage.googleapis.com/charts"
 grafana,"https://grafana.github.io/helm-charts"
+hashicorp,"https://helm.releases.hashicorp.com "
 )
 
 charts=(
