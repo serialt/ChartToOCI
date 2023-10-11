@@ -2734,3 +2734,5 @@ vault-secrets-operator-0.1.0.tgz
 vault-secrets-operator-0.2.0.tgz
 vault-secrets-operator-0.3.1.tgz
 
+gitea-1.0.5.tgz
+
