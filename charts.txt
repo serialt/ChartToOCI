@@ -2780,3 +2780,27 @@ redis-cluster-9.0.12.tgz
 sonarqube-4.0.2.tgz
 vault-secrets-operator-0.3.2.tgz
 
+elasticsearch-19.13.5.tgz
+grafana-6.61.0.tgz
+grafana-6.61.1.tgz
+grafana-agent-0.27.0.tgz
+grafana-agent-operator-0.3.8.tgz
+influxdb-5.9.10.tgz
+influxdb-5.9.11.tgz
+keycloak-17.1.0.tgz
+keycloak-17.1.1.tgz
+mariadb-14.0.3.tgz
+mariadb-galera-10.0.2.tgz
+mariadb-galera-10.0.3.tgz
+mongodb-14.0.11.tgz
+mongodb-14.0.12.tgz
+mongodb-sharded-7.0.5.tgz
+mysql-9.13.0.tgz
+rabbitmq-12.2.5.tgz
+rabbitmq-cluster-operator-3.8.9.tgz
+rabbitmq-cluster-operator-3.9.0.tgz
+redis-18.1.6.tgz
+redis-cluster-9.0.13.tgz
+vault-secrets-operator-0.3.3.tgz
+vault-secrets-operator-0.3.4.tgz
+
