@@ -2804,3 +2804,27 @@ redis-cluster-9.0.13.tgz
 vault-secrets-operator-0.3.3.tgz
 vault-secrets-operator-0.3.4.tgz
 
+cert-manager-0.12.12.tgz
+etcd-9.5.7.tgz
+grafana-6.61.2.tgz
+grafana-7.0.0.tgz
+grafana-7.0.1.tgz
+grafana-agent-0.27.1.tgz
+grafana-agent-operator-0.3.9.tgz
+keycloak-17.1.2.tgz
+keycloak-17.2.0.tgz
+mariadb-14.1.0.tgz
+minio-12.8.16.tgz
+minio-12.8.17.tgz
+minio-12.8.18.tgz
+mongodb-14.0.13.tgz
+mongodb-14.0.14.tgz
+mysql-9.14.0.tgz
+mysql-9.14.1.tgz
+nginx-15.3.5.tgz
+nginx-15.4.0.tgz
+rabbitmq-12.3.0.tgz
+redis-18.2.0.tgz
+vault-0.26.0.tgz
+vault-0.26.1.tgz
+
