@@ -3,8 +3,8 @@
 # Author        : serialt
 # Email         : tserialt@gmail.com
 # Created Time  : 2023-09-24 00:27:26
-# Last modified : 2023-10-11 13:11:24
-# FilePath      : /migrate-chart/sync.sh
+# Last modified : 2024-02-06 22:22:50
+# FilePath      : /ChartToOCI/sync.sh
 # Other         : 
 #               : 
 # 
@@ -16,7 +16,16 @@ chart_repo=(
 bitnami,"https://charts.bitnami.com/bitnami"
 istio,"https://istio-release.storage.googleapis.com/charts"
 grafana,"https://grafana.github.io/helm-charts"
-hashicorp,"https://helm.releases.hashicorp.com "
+hashicorp,"https://helm.releases.hashicorp.com"
+ingress-nginx,"https://kubernetes.github.io/ingress-nginx"
+metallb,"https://metallb.github.io/metallb"
+metrics-server,"https://kubernetes-sigs.github.io/metrics-server"
+openebs,"https://openebs.github.io/charts"
+openebs-jiva,"https://openebs.github.io/jiva-operator"
+runix,"https://helm.runix.net"
+harbor,"https://helm.goharbor.io"
+longhorn,"https://charts.okteto.com"
+csi-driver-nfs,"https://raw.githubusercontent.com/kubernetes-csi/csi-driver-nfs/master/charts"
 )
 
 charts=(
@@ -42,6 +51,10 @@ grafana,loki-stack
 istio,base
 istio,istiod
 istio,gateway
+ingress-nginx,ingress-nginx
+csi-driver-nfs,csi-driver-nfs
+harbor,harbor
+openebs,openebs
 )
 
 # workspace
