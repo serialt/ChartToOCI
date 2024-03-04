@@ -3808,3 +3808,5 @@ openebs-3.9.0.tgz
 postgresql-ha-13.4.5.tgz
 redis-18.17.0.tgz
 
+minio-13.7.1.tgz
+
