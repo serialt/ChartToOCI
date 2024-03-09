@@ -3,7 +3,7 @@
 # Author        : serialt
 # Email         : tserialt@gmail.com
 # Created Time  : 2023-09-24 00:27:26
-# Last modified : 2024-03-09 15:55:47
+# Last modified : 2024-03-09 16:14:05
 # FilePath      : /ChartToOCI/sync.sh
 # Other         : 
 #               : 
@@ -102,9 +102,9 @@ DownloadChart(){
         do 
             repo_chart=`echo $i | awk -F '=' '{print $1}'`
             repo_chart_version=`echo $i | awk -F '=' '{print $2}'`
-            grep ${chartName}-${repo_chart_version} ${workspace}/charts.txt
+            grep ${repo_chart}-${repo_chart_version} ${workspace}/charts.txt
             if [ $? != 0 ] ;then 
-                helm fetch ${repo_chart} --version ${repo_chart_version}
+                helm fetch ${repo_chart} --version ${repo_chart_version}  
             fi
         done
 }
