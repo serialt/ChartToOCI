@@ -3,7 +3,7 @@
 # Author        : serialt
 # Email         : tserialt@gmail.com
 # Created Time  : 2023-09-24 00:27:26
-# Last modified : 2024-03-09 16:14:05
+# Last modified : 2024-03-09 16:24:48
 # FilePath      : /ChartToOCI/sync.sh
 # Other         : 
 #               : 
@@ -98,11 +98,22 @@ DownloadChart(){
     cd ${workspace}/charts
     results=`helm search repo ${chartRepo}/${chartName} -l | sed '1d' | awk '{print $1"="$2}'`
     echo ${results}
+    # results 数据格式
+    # serialt/vscode=0.0.3
+    # serialt/vscode=0.0.2
+    # serialt/vscode=0.0.1
+
     for i in ${results} 
         do 
+            # repo_chart数据格式：          serialt/vscode
+            # repo_chart_version 数据格式： 0.0.3
+            # is_exits_chart 数据格式：                     
+
             repo_chart=`echo $i | awk -F '=' '{print $1}'`
             repo_chart_version=`echo $i | awk -F '=' '{print $2}'`
-            grep ${repo_chart}-${repo_chart_version} ${workspace}/charts.txt
+            is_exits_chart=`echo ${repo_chart} | awk -F'/' '{print $2}'`
+
+            grep ${is_exits_chart}-${repo_chart_version} ${workspace}/charts.txt
             if [ $? != 0 ] ;then 
                 helm fetch ${repo_chart} --version ${repo_chart_version}  
             fi
