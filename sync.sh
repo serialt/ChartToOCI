@@ -3,7 +3,7 @@
 # Author        : serialt
 # Email         : tserialt@gmail.com
 # Created Time  : 2023-09-24 00:27:26
-# Last modified : 2024-02-06 22:22:50
+# Last modified : 2024-03-09 15:55:47
 # FilePath      : /ChartToOCI/sync.sh
 # Other         : 
 #               : 
@@ -13,6 +13,7 @@
 # ***********************************************************************
 
 chart_repo=(
+serialt,"https://serialt.github.io/helm-charts"
 bitnami,"https://charts.bitnami.com/bitnami"
 istio,"https://istio-release.storage.googleapis.com/charts"
 grafana,"https://grafana.github.io/helm-charts"
@@ -29,7 +30,10 @@ csi-driver-nfs,"https://raw.githubusercontent.com/kubernetes-csi/csi-driver-nfs/
 )
 
 charts=(
+serialt,cloudbeaver
+serialt,vscode
 hashicorp,vault
+hashicorp,consul
 bitnami,gitea
 bitnami,nginx
 bitnami,minio
@@ -43,9 +47,11 @@ bitnami,elasticsearch
 bitnami,etcd
 bitnami,influxdb
 bitnami,harbor
+bitnami,opensearch
 bitnami,cert-manager
 bitnami,sonarqube
 bitnami,postgresql
+bitnami,prometheus
 grafana,grafana
 grafana,loki-stack
 istio,base
@@ -55,6 +61,8 @@ ingress-nginx,ingress-nginx
 csi-driver-nfs,csi-driver-nfs
 harbor,harbor
 openebs,openebs
+metallb,metallb
+runix,pgadmin4
 )
 
 # workspace
