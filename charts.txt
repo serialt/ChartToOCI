@@ -4320,3 +4320,7 @@ prometheus-1.0.1.tgz
 redis-19.0.0.tgz
 redis-19.0.1.tgz
 
+gitea-1.6.3.tgz
+minio-14.1.2.tgz
+rabbitmq-cluster-operator-4.1.0.tgz
+
