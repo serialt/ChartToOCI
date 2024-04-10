@@ -4406,3 +4406,22 @@ rabbitmq-cluster-operator-4.2.2.tgz
 rabbitmq-cluster-operator-4.2.3.tgz
 sonarqube-5.0.2.tgz
 
+base-1.19.9.tgz
+base-1.20.5.tgz
+base-1.21.1.tgz
+cert-manager-1.1.0.tgz
+elasticsearch-20.0.4.tgz
+gateway-1.19.9.tgz
+gateway-1.20.5.tgz
+gateway-1.21.1.tgz
+gitea-2.0.2.tgz
+istiod-1.19.9.tgz
+istiod-1.20.5.tgz
+istiod-1.21.1.tgz
+mongodb-15.1.4.tgz
+mongodb-sharded-8.0.5.tgz
+nginx-16.0.2.tgz
+prometheus-1.0.5.tgz
+redis-19.1.0.tgz
+vault-0.28.0.tgz
+
