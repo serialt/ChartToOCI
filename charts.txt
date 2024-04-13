@@ -4425,3 +4425,18 @@ prometheus-1.0.5.tgz
 redis-19.1.0.tgz
 vault-0.28.0.tgz
 
+cert-manager-1.1.1.tgz
+grafana-7.3.8.tgz
+grafana-agent-0.38.0.tgz
+grafana-agent-operator-0.3.21.tgz
+harbor-1.14.2.tgz
+harbor-21.1.1.tgz
+influxdb-6.0.6.tgz
+nginx-16.0.3.tgz
+nginx-ingress-controller-11.1.0.tgz
+postgresql-15.2.5.tgz
+postgresql-ha-14.0.3.tgz
+prometheus-1.0.6.tgz
+rabbitmq-14.0.0.tgz
+rabbitmq-cluster-operator-4.2.4.tgz
+
