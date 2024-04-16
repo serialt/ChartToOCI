@@ -4440,3 +4440,7 @@ prometheus-1.0.6.tgz
 rabbitmq-14.0.0.tgz
 rabbitmq-cluster-operator-4.2.4.tgz
 
+keycloak-21.0.1.tgz
+mariadb-18.0.2.tgz
+rabbitmq-14.0.1.tgz
+
