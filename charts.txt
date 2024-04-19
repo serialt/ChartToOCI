@@ -4444,3 +4444,17 @@ keycloak-21.0.1.tgz
 mariadb-18.0.2.tgz
 rabbitmq-14.0.1.tgz
 
+elasticsearch-21.0.0.tgz
+elasticsearch-21.0.1.tgz
+gitea-2.0.4.tgz
+grafana-7.3.9.tgz
+grafana-sampling-0.1.1.tgz
+influxdb-6.0.7.tgz
+influxdb-6.0.8.tgz
+keycloak-21.0.2.tgz
+minio-14.1.8.tgz
+nginx-16.0.4.tgz
+redis-19.1.1.tgz
+redis-19.1.2.tgz
+redis-cluster-10.0.2.tgz
+
