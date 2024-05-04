@@ -4512,3 +4512,12 @@ rabbitmq-14.1.0.tgz
 redis-19.1.4.tgz
 redis-19.1.5.tgz
 
+elasticsearch-21.0.2.tgz
+keycloak-21.1.1.tgz
+minio-14.3.3.tgz
+mysql-10.2.2.tgz
+postgresql-15.2.8.tgz
+postgresql-ha-14.0.10.tgz
+postgresql-ha-14.0.9.tgz
+rabbitmq-14.1.1.tgz
+
