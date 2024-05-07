@@ -4521,3 +4521,10 @@ postgresql-ha-14.0.10.tgz
 postgresql-ha-14.0.9.tgz
 rabbitmq-14.1.1.tgz
 
+csi-driver-nfs-v4.7.0.tgz
+keycloak-21.1.2.tgz
+postgresql-15.2.9.tgz
+prometheus-1.0.7.tgz
+rabbitmq-14.1.2.tgz
+sonarqube-5.0.3.tgz
+
