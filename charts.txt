@@ -4683,3 +4683,15 @@ redis-cluster-10.0.6.tgz
 sonarqube-5.0.4.tgz
 sonarqube-5.1.0.tgz
 
+influxdb-6.1.1.tgz
+keycloak-21.3.1.tgz
+mongodb-15.5.2.tgz
+mongodb-sharded-8.2.1.tgz
+mysql-11.0.0.tgz
+nginx-17.2.0.tgz
+nginx-ingress-controller-11.2.1.tgz
+opensearch-1.2.0.tgz
+prometheus-1.2.0.tgz
+rabbitmq-14.3.0.tgz
+redis-19.5.0.tgz
+
