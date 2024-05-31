@@ -53,7 +53,10 @@ bitnami,sonarqube
 bitnami,postgresql
 bitnami,prometheus
 grafana,grafana
-grafana,loki-stack
+grafana,loki
+grafana,loki
+grafana,mimir
+grafana,tempo
 istio,base
 istio,istiod
 istio,gateway
