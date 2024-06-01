@@ -5569,3 +5569,9 @@ tempo-vulture-0.3.0.tgz
 tempo-vulture-0.4.0.tgz
 tempo-vulture-0.4.1.tgz
 
+grafana-agent-0.40.0.tgz
+grafana-agent-operator-0.3.23.tgz
+mongodb-sharded-8.2.3.tgz
+tempo-1.9.0.tgz
+tempo-distributed-1.10.0.tgz
+
