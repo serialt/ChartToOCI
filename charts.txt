@@ -5655,3 +5655,11 @@ redis-cluster-10.2.3.tgz
 sonarqube-5.2.1.tgz
 sonarqube-5.2.2.tgz
 
+cert-manager-1.3.3.tgz
+grafana-8.0.1.tgz
+grafana-agent-0.41.0.tgz
+grafana-agent-operator-0.3.24.tgz
+grafana-agent-operator-0.4.0.tgz
+sonarqube-5.2.3.tgz
+tempo-distributed-1.11.0.tgz
+
