@@ -5679,3 +5679,12 @@ postgresql-ha-14.2.4.tgz
 postgresql-ha-14.2.5.tgz
 rabbitmq-cluster-operator-4.3.6.tgz
 
+consul-1.5.0.tgz
+minio-14.6.8.tgz
+minio-14.6.9.tgz
+pgadmin4-1.26.0.tgz
+rabbitmq-14.4.2.tgz
+redis-19.5.3.tgz
+sonarqube-5.2.4.tgz
+sonarqube-5.2.5.tgz
+
