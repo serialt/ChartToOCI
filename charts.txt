@@ -5820,3 +5820,21 @@ redis-cluster-10.2.6.tgz
 tempo-distributed-1.13.1.tgz
 tempo-distributed-1.13.2.tgz
 
+cert-manager-1.3.9.tgz
+elasticsearch-21.2.8.tgz
+etcd-10.2.6.tgz
+gitea-2.3.10.tgz
+gitea-2.3.11.tgz
+gitea-2.3.9.tgz
+grafana-8.3.2.tgz
+influxdb-6.3.9.tgz
+minio-14.6.18.tgz
+minio-14.6.19.tgz
+nginx-ingress-controller-11.3.10.tgz
+pgadmin4-1.27.0.tgz
+postgresql-15.5.14.tgz
+postgresql-ha-14.2.11.tgz
+prometheus-1.3.10.tgz
+rabbitmq-cluster-operator-4.3.12.tgz
+tempo-distributed-1.14.0.tgz
+
