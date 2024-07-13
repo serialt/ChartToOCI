@@ -5854,3 +5854,24 @@ rabbitmq-cluster-operator-4.3.13.tgz
 tempo-1.10.1.tgz
 tempo-vulture-0.5.0.tgz
 
+cert-manager-1.3.10.tgz
+elasticsearch-21.3.0.tgz
+elasticsearch-21.3.1.tgz
+grafana-8.3.3.tgz
+harbor-22.0.1.tgz
+harbor-22.0.2.tgz
+influxdb-6.3.10.tgz
+keycloak-21.6.1.tgz
+loki-6.6.6.tgz
+loki-distributed-0.79.1.tgz
+mariadb-19.0.0.tgz
+mariadb-galera-14.0.0.tgz
+mimir-distributed-5.4.0.tgz
+minio-14.6.20.tgz
+postgresql-15.5.16.tgz
+prometheus-1.3.11.tgz
+sonarqube-5.2.8.tgz
+sonarqube-5.2.9.tgz
+tempo-distributed-1.15.0.tgz
+vault-0.28.1.tgz
+
