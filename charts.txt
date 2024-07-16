@@ -5875,3 +5875,15 @@ sonarqube-5.2.9.tgz
 tempo-distributed-1.15.0.tgz
 vault-0.28.1.tgz
 
+gitea-2.3.12.tgz
+gitea-2.3.13.tgz
+grafana-8.3.4.tgz
+harbor-1.13.5.tgz
+harbor-1.14.3.tgz
+harbor-22.0.3.tgz
+keycloak-21.6.2.tgz
+minio-14.6.21.tgz
+minio-14.6.22.tgz
+nginx-ingress-controller-11.3.13.tgz
+tempo-distributed-1.15.1.tgz
+
