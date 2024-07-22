@@ -5936,3 +5936,8 @@ redis-19.6.2.tgz
 redis-cluster-10.2.7.tgz
 sonarqube-5.2.10.tgz
 
+grafana-8.3.6.tgz
+harbor-22.0.5.tgz
+mariadb-galera-14.0.2.tgz
+nginx-ingress-controller-11.3.15.tgz
+
