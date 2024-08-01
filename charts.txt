@@ -6030,3 +6030,8 @@ postgresql-ha-14.2.15.tgz
 tempo-distributed-1.15.3.tgz
 vault-secrets-operator-0.8.1.tgz
 
+grafana-8.3.8.tgz
+grafana-8.4.0.tgz
+loki-distributed-0.79.2.tgz
+minio-14.6.31.tgz
+
