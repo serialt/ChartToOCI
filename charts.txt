@@ -6035,3 +6035,10 @@ grafana-8.4.0.tgz
 loki-distributed-0.79.2.tgz
 minio-14.6.31.tgz
 
+grafana-8.4.1.tgz
+mariadb-galera-14.0.6.tgz
+minio-14.6.32.tgz
+postgresql-ha-14.2.16.tgz
+redis-cluster-10.3.0.tgz
+tempo-distributed-1.15.4.tgz
+
