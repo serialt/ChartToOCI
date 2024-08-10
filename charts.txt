@@ -6056,3 +6056,31 @@ tempo-distributed-1.16.0.tgz
 
 gitea-2.3.18.tgz
 
+etcd-10.2.12.tgz
+grafana-8.4.2.tgz
+grafana-8.4.3.tgz
+harbor-22.0.11.tgz
+harbor-22.0.12.tgz
+influxdb-6.3.16.tgz
+influxdb-6.3.17.tgz
+loki-6.10.0.tgz
+loki-6.9.0.tgz
+mongodb-15.6.18.tgz
+mysql-11.1.15.tgz
+nginx-ingress-controller-11.3.19.tgz
+opensearch-1.2.10.tgz
+postgresql-15.5.21.tgz
+prometheus-1.3.15.tgz
+prometheus-1.3.16.tgz
+prometheus-1.3.17.tgz
+rabbitmq-14.6.6.tgz
+rabbitmq-cluster-operator-4.3.17.tgz
+rabbitmq-cluster-operator-4.3.18.tgz
+redis-20.0.0.tgz
+redis-20.0.1.tgz
+redis-cluster-11.0.0.tgz
+redis-cluster-11.0.1.tgz
+redis-cluster-11.0.2.tgz
+tempo-1.10.2.tgz
+tempo-distributed-1.16.1.tgz
+
