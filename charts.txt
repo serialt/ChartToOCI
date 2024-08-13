@@ -6084,3 +6084,9 @@ redis-cluster-11.0.2.tgz
 tempo-1.10.2.tgz
 tempo-distributed-1.16.1.tgz
 
+grafana-8.4.4.tgz
+loki-distributed-0.79.3.tgz
+minio-14.7.0.tgz
+tempo-1.10.3.tgz
+tempo-distributed-1.16.2.tgz
+
