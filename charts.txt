@@ -6131,3 +6131,12 @@ redis-20.0.3.tgz
 redis-cluster-11.0.3.tgz
 tempo-distributed-1.17.0.tgz
 
+grafana-8.4.8.tgz
+harbor-23.0.1.tgz
+keycloak-22.1.3.tgz
+nginx-18.1.11.tgz
+nginx-ingress-controller-11.4.0.tgz
+postgresql-15.5.24.tgz
+postgresql-ha-14.2.17.tgz
+rabbitmq-cluster-operator-4.3.19.tgz
+
