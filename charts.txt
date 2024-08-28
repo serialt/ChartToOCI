@@ -6140,3 +6140,21 @@ postgresql-15.5.24.tgz
 postgresql-ha-14.2.17.tgz
 rabbitmq-cluster-operator-4.3.19.tgz
 
+etcd-10.2.13.tgz
+grafana-sampling-1.0.1.tgz
+harbor-1.15.1.tgz
+keycloak-22.2.0.tgz
+keycloak-22.2.1.tgz
+loki-6.10.1.tgz
+mariadb-19.0.5.tgz
+minio-14.7.2.tgz
+mongodb-15.6.21.tgz
+mongodb-sharded-8.3.6.tgz
+postgresql-15.5.25.tgz
+postgresql-15.5.26.tgz
+postgresql-ha-14.2.18.tgz
+prometheus-1.3.18.tgz
+prometheus-1.3.19.tgz
+rabbitmq-14.6.7.tgz
+rabbitmq-cluster-operator-4.3.20.tgz
+
