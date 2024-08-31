@@ -6158,3 +6158,23 @@ prometheus-1.3.19.tgz
 rabbitmq-14.6.7.tgz
 rabbitmq-cluster-operator-4.3.20.tgz
 
+consul-1.1.15.tgz
+consul-1.1.16.tgz
+consul-1.3.8.tgz
+consul-1.3.9.tgz
+consul-1.4.5.tgz
+consul-1.4.6.tgz
+elasticsearch-21.3.10.tgz
+elasticsearch-21.3.9.tgz
+grafana-8.4.9.tgz
+grafana-8.5.0.tgz
+loki-6.10.2.tgz
+minio-14.7.3.tgz
+minio-14.7.4.tgz
+mongodb-15.6.22.tgz
+postgresql-15.5.27.tgz
+postgresql-ha-14.2.19.tgz
+rabbitmq-14.6.8.tgz
+rabbitmq-14.6.9.tgz
+sonarqube-5.2.13.tgz
+
