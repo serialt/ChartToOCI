@@ -6178,3 +6178,14 @@ rabbitmq-14.6.8.tgz
 rabbitmq-14.6.9.tgz
 sonarqube-5.2.13.tgz
 
+consul-1.5.3.tgz
+csi-driver-nfs-v4.9.0.tgz
+harbor-23.0.2.tgz
+loki-6.11.0.tgz
+loki-6.12.0.tgz
+mysql-11.1.16.tgz
+pgadmin4-1.29.0.tgz
+postgresql-ha-14.2.20.tgz
+postgresql-ha-14.2.21.tgz
+rabbitmq-cluster-operator-4.3.21.tgz
+
