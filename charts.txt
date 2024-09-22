@@ -6268,3 +6268,20 @@ mysql-11.1.17.tgz
 opensearch-1.3.2.tgz
 postgresql-15.5.32.tgz
 
+base-1.22.5.tgz
+base-1.23.2.tgz
+gateway-1.22.5.tgz
+gateway-1.23.2.tgz
+gitea-2.3.22.tgz
+harbor-23.0.4.tgz
+istiod-1.22.5.tgz
+istiod-1.23.2.tgz
+istiod-remote-1.23.2.tgz
+keycloak-22.2.6.tgz
+mongodb-15.6.25.tgz
+nginx-18.1.15.tgz
+nginx-18.2.0.tgz
+postgresql-ha-14.2.29.tgz
+rabbitmq-15.0.0.tgz
+redis-20.1.4.tgz
+
