@@ -6360,3 +6360,23 @@ postgresql-16.0.1.tgz
 postgresql-ha-14.2.32.tgz
 postgresql-ha-14.2.33.tgz
 
+cert-manager-1.3.20.tgz
+cert-manager-1.3.21.tgz
+elasticsearch-21.3.21.tgz
+gitea-3.0.1.tgz
+ingress-nginx-4.10.5.tgz
+ingress-nginx-4.11.3.tgz
+keycloak-24.0.0.tgz
+mongodb-16.0.0.tgz
+mongodb-16.0.1.tgz
+mongodb-16.0.2.tgz
+mongodb-sharded-9.0.0.tgz
+mongodb-sharded-9.0.1.tgz
+mongodb-sharded-9.0.2.tgz
+nginx-ingress-controller-11.4.4.tgz
+pgadmin4-1.30.0.tgz
+pgadmin4-1.31.0.tgz
+rabbitmq-15.0.2.tgz
+redis-20.2.0.tgz
+vault-secrets-operator-0.9.0.tgz
+
