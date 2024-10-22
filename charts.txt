@@ -6415,3 +6415,10 @@ rabbitmq-cluster-operator-4.3.25.tgz
 tempo-distributed-1.18.5.tgz
 tempo-distributed-1.19.0.tgz
 
+harbor-24.0.1.tgz
+mimir-distributed-5.5.1.tgz
+nginx-18.2.4.tgz
+nginx-ingress-controller-11.5.0.tgz
+postgresql-16.0.4.tgz
+postgresql-ha-14.3.2.tgz
+
