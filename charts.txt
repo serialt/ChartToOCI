@@ -6444,3 +6444,13 @@ tempo-distributed-1.20.0.tgz
 mongodb-16.1.1.tgz
 mongodb-sharded-9.0.3.tgz
 
+etcd-10.4.2.tgz
+grafana-8.5.10.tgz
+grafana-8.5.11.tgz
+grafana-8.5.9.tgz
+mongodb-16.2.0.tgz
+mongodb-16.2.1.tgz
+postgresql-16.1.0.tgz
+postgresql-ha-14.3.5.tgz
+rabbitmq-15.0.4.tgz
+
