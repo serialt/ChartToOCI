@@ -6454,3 +6454,7 @@ postgresql-16.1.0.tgz
 postgresql-ha-14.3.5.tgz
 rabbitmq-15.0.4.tgz
 
+keycloak-24.0.3.tgz
+minio-14.8.1.tgz
+rabbitmq-15.0.5.tgz
+
