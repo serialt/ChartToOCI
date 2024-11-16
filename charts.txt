@@ -6529,3 +6529,15 @@ redis-20.2.2.tgz
 redis-cluster-11.0.8.tgz
 tempo-1.14.0.tgz
 
+elasticsearch-21.3.25.tgz
+harbor-24.0.2.tgz
+loki-distributed-0.80.0.tgz
+mongodb-16.2.2.tgz
+mongodb-16.3.0.tgz
+postgresql-16.2.0.tgz
+postgresql-16.2.1.tgz
+postgresql-ha-14.3.8.tgz
+postgresql-ha-14.3.9.tgz
+redis-20.3.0.tgz
+tempo-distributed-1.22.0.tgz
+
