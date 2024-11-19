@@ -6541,3 +6541,21 @@ postgresql-ha-14.3.9.tgz
 redis-20.3.0.tgz
 tempo-distributed-1.22.0.tgz
 
+elasticsearch-21.1.2.tgz
+harbor-21.4.2.tgz
+harbor-23.0.0.tgz
+influxdb-6.3.19.tgz
+influxdb-6.3.3.tgz
+keycloak-21.3.4.tgz
+minio-14.6.15.tgz
+minio-14.6.33.tgz
+mongodb-15.6.10.tgz
+mongodb-15.6.3.tgz
+mongodb-sharded-8.2.4.tgz
+mongodb-sharded-8.3.7.tgz
+mysql-11.1.18.tgz
+nginx-17.3.3.tgz
+opensearch-1.4.0.tgz
+redis-19.5.1.tgz
+tempo-distributed-1.22.1.tgz
+
