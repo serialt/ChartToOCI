@@ -6576,3 +6576,26 @@ elasticsearch-21.3.26.tgz
 keycloak-24.2.2.tgz
 pgadmin4-1.32.0.tgz
 
+base-1.24.1.tgz
+gateway-1.24.1.tgz
+gitea-3.0.3.tgz
+grafana-8.6.2.tgz
+grafana-8.6.3.tgz
+istiod-1.24.1.tgz
+loki-6.22.0.tgz
+mariadb-20.1.0.tgz
+mongodb-16.3.1.tgz
+mysql-12.0.1.tgz
+mysql-12.1.0.tgz
+nginx-18.2.6.tgz
+pgadmin4-1.33.0.tgz
+pgadmin4-1.33.1.tgz
+pgadmin4-1.33.2.tgz
+postgresql-ha-15.0.0.tgz
+rabbitmq-15.1.0.tgz
+redis-cluster-11.1.0.tgz
+tempo-distributed-1.23.0.tgz
+tempo-distributed-1.23.1.tgz
+vault-secrets-gateway-0.0.1.tgz
+vault-secrets-gateway-0.0.2.tgz
+
