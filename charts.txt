@@ -6599,3 +6599,12 @@ tempo-distributed-1.23.1.tgz
 vault-secrets-gateway-0.0.1.tgz
 vault-secrets-gateway-0.0.2.tgz
 
+grafana-8.6.4.tgz
+influxdb-6.3.23.tgz
+influxdb-6.4.0.tgz
+mariadb-20.1.1.tgz
+postgresql-16.2.3.tgz
+postgresql-ha-15.0.1.tgz
+postgresql-ha-15.0.2.tgz
+rabbitmq-cluster-operator-4.3.28.tgz
+
