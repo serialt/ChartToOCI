@@ -6676,3 +6676,14 @@ tempo-distributed-1.25.2.tgz
 tempo-distributed-1.26.0.tgz
 vault-secrets-operator-0.9.1.tgz
 
+gitea-3.1.2.tgz
+grafana-8.7.1.tgz
+grafana-8.8.0.tgz
+grafana-8.8.1.tgz
+mariadb-20.2.1.tgz
+minio-14.10.0.tgz
+nginx-18.3.1.tgz
+postgresql-16.3.1.tgz
+postgresql-ha-15.1.1.tgz
+tempo-distributed-1.26.1.tgz
+
