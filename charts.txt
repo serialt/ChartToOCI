@@ -6711,3 +6711,17 @@ tempo-1.16.0.tgz
 tempo-distributed-1.26.2.tgz
 tempo-distributed-1.26.3.tgz
 
+grafana-sampling-1.1.2.tgz
+minio-14.10.2.tgz
+minio-14.10.3.tgz
+postgresql-16.3.3.tgz
+postgresql-ha-15.1.2.tgz
+rabbitmq-cluster-operator-4.4.1.tgz
+redis-20.6.1.tgz
+redis-cluster-11.2.1.tgz
+sonarqube-6.2.0.tgz
+sonarqube-7.0.0.tgz
+sonarqube-7.0.1.tgz
+tempo-distributed-1.27.0.tgz
+tempo-distributed-1.28.0.tgz
+
