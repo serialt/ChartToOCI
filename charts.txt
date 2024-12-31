@@ -6730,3 +6730,8 @@ postgresql-16.3.4.tgz
 postgresql-ha-15.1.3.tgz
 postgresql-ha-15.1.4.tgz
 
+ingress-nginx-4.10.6.tgz
+ingress-nginx-4.11.4.tgz
+ingress-nginx-4.12.0.tgz
+keycloak-24.3.2.tgz
+
