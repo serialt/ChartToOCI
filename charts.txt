@@ -6743,3 +6743,5 @@ harbor-24.1.5.tgz
 nginx-18.3.2.tgz
 postgresql-16.3.5.tgz
 
+mysql-12.2.1.tgz
+
