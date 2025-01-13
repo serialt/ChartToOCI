@@ -6757,3 +6757,17 @@ redis-20.6.2.tgz
 redis-cluster-11.2.3.tgz
 sonarqube-7.0.2.tgz
 
+cert-manager-1.4.1.tgz
+etcd-10.7.2.tgz
+gitea-3.1.4.tgz
+influxdb-6.5.1.tgz
+keycloak-24.4.0.tgz
+keycloak-24.4.1.tgz
+mariadb-galera-14.1.1.tgz
+nginx-18.3.5.tgz
+nginx-ingress-controller-11.6.4.tgz
+rabbitmq-15.2.2.tgz
+redis-cluster-11.3.0.tgz
+sonarqube-8.0.0.tgz
+sonarqube-8.0.1.tgz
+
