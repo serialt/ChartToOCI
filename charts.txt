@@ -6796,3 +6796,22 @@ tempo-distributed-1.28.1.tgz
 tempo-distributed-1.28.2.tgz
 tempo-distributed-1.29.0.tgz
 
+cert-manager-1.4.2.tgz
+cert-manager-1.4.3.tgz
+consul-1.1.18.tgz
+consul-1.4.8.tgz
+etcd-10.7.3.tgz
+gitea-3.1.5.tgz
+grafana-8.8.4.tgz
+harbor-24.1.7.tgz
+influxdb-6.5.2.tgz
+loki-6.24.1.tgz
+loki-6.25.0.tgz
+minio-14.10.4.tgz
+nginx-ingress-controller-11.6.5.tgz
+prometheus-1.4.2.tgz
+rabbitmq-cluster-operator-4.4.2.tgz
+tempo-1.18.1.tgz
+tempo-distributed-1.30.0.tgz
+tempo-distributed-1.31.0.tgz
+
