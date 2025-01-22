@@ -6815,3 +6815,15 @@ tempo-1.18.1.tgz
 tempo-distributed-1.30.0.tgz
 tempo-distributed-1.31.0.tgz
 
+elasticsearch-21.4.3.tgz
+etcd-11.0.0.tgz
+etcd-11.0.1.tgz
+grafana-8.8.5.tgz
+harbor-1.16.2.tgz
+keycloak-24.4.5.tgz
+keycloak-24.4.6.tgz
+minio-14.10.5.tgz
+mongodb-16.4.2.tgz
+postgresql-16.4.4.tgz
+postgresql-16.4.5.tgz
+
