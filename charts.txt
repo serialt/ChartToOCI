@@ -6827,3 +6827,23 @@ mongodb-16.4.2.tgz
 postgresql-16.4.4.tgz
 postgresql-16.4.5.tgz
 
+base-1.22.8.tgz
+cert-manager-1.4.4.tgz
+csi-driver-nfs-v4.10.0.tgz
+etcd-11.0.2.tgz
+etcd-11.0.3.tgz
+etcd-11.0.4.tgz
+gateway-1.22.8.tgz
+gitea-3.1.6.tgz
+gitea-3.1.7.tgz
+harbor-24.1.8.tgz
+influxdb-6.5.3.tgz
+istiod-1.22.8.tgz
+mariadb-20.2.2.tgz
+mysql-12.2.2.tgz
+nginx-ingress-controller-11.6.6.tgz
+prometheus-1.4.3.tgz
+prometheus-1.4.4.tgz
+rabbitmq-cluster-operator-4.4.3.tgz
+redis-cluster-11.4.1.tgz
+
