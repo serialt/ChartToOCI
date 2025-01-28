@@ -6847,3 +6847,8 @@ prometheus-1.4.4.tgz
 rabbitmq-cluster-operator-4.4.3.tgz
 redis-cluster-11.4.1.tgz
 
+harbor-24.2.0.tgz
+harbor-24.3.0.tgz
+opensearch-1.5.2.tgz
+rabbitmq-15.2.4.tgz
+
