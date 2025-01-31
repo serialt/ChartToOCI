@@ -6852,3 +6852,12 @@ harbor-24.3.0.tgz
 opensearch-1.5.2.tgz
 rabbitmq-15.2.4.tgz
 
+elasticsearch-21.4.4.tgz
+grafana-agent-operator-0.5.1.tgz
+keycloak-24.4.7.tgz
+minio-15.0.0.tgz
+nginx-ingress-controller-11.6.7.tgz
+opensearch-1.5.3.tgz
+sonarqube-8.0.2.tgz
+tempo-distributed-1.32.0.tgz
+
