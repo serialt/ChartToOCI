@@ -6861,3 +6861,7 @@ opensearch-1.5.3.tgz
 sonarqube-8.0.2.tgz
 tempo-distributed-1.32.0.tgz
 
+etcd-11.0.5.tgz
+grafana-8.8.6.tgz
+keycloak-24.4.8.tgz
+
