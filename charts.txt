@@ -6865,3 +6865,12 @@ etcd-11.0.5.tgz
 grafana-8.8.6.tgz
 keycloak-24.4.8.tgz
 
+cert-manager-1.4.5.tgz
+grafana-8.9.0.tgz
+mongodb-16.4.3.tgz
+mongodb-sharded-9.1.2.tgz
+postgresql-16.4.6.tgz
+postgresql-ha-15.1.7.tgz
+rabbitmq-15.2.5.tgz
+sonarqube-8.0.3.tgz
+
