@@ -6874,3 +6874,21 @@ postgresql-ha-15.1.7.tgz
 rabbitmq-15.2.5.tgz
 sonarqube-8.0.3.tgz
 
+cert-manager-1.4.6.tgz
+cert-manager-1.4.7.tgz
+cert-manager-1.4.8.tgz
+etcd-11.0.6.tgz
+gitea-3.1.10.tgz
+gitea-3.1.8.tgz
+influxdb-6.5.4.tgz
+keycloak-24.4.9.tgz
+loki-6.25.1.tgz
+loki-distributed-0.80.1.tgz
+minio-15.0.1.tgz
+minio-15.0.2.tgz
+nginx-18.3.6.tgz
+nginx-ingress-controller-11.6.8.tgz
+opensearch-1.5.4.tgz
+prometheus-1.4.5.tgz
+redis-20.7.0.tgz
+
