@@ -6908,3 +6908,19 @@ prometheus-1.4.6.tgz
 rabbitmq-15.3.0.tgz
 rabbitmq-15.3.1.tgz
 
+base-1.23.5.tgz
+cert-manager-1.4.10.tgz
+cert-manager-1.4.9.tgz
+gateway-1.23.5.tgz
+grafana-8.10.0.tgz
+grafana-8.9.1.tgz
+istiod-1.23.5.tgz
+istiod-remote-1.23.5.tgz
+loki-6.27.0.tgz
+postgresql-16.4.8.tgz
+postgresql-16.4.9.tgz
+postgresql-ha-15.1.8.tgz
+postgresql-ha-15.1.9.tgz
+rabbitmq-cluster-operator-4.4.4.tgz
+rabbitmq-cluster-operator-4.4.5.tgz
+
