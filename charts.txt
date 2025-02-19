@@ -6924,3 +6924,13 @@ postgresql-ha-15.1.9.tgz
 rabbitmq-cluster-operator-4.4.4.tgz
 rabbitmq-cluster-operator-4.4.5.tgz
 
+harbor-24.3.1.tgz
+harbor-24.3.2.tgz
+keycloak-24.4.10.tgz
+mariadb-20.2.4.tgz
+mongodb-16.4.4.tgz
+redis-20.7.1.tgz
+redis-cluster-11.4.2.tgz
+tempo-1.18.2.tgz
+tempo-distributed-1.32.1.tgz
+
