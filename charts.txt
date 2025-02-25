@@ -6962,3 +6962,8 @@ redis-20.8.0.tgz
 redis-cluster-11.4.3.tgz
 sonarqube-8.0.4.tgz
 
+etcd-11.1.0.tgz
+mariadb-20.4.0.tgz
+mysql-12.3.0.tgz
+redis-20.9.0.tgz
+
