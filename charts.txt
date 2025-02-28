@@ -6967,3 +6967,17 @@ mariadb-20.4.0.tgz
 mysql-12.3.0.tgz
 redis-20.9.0.tgz
 
+elasticsearch-21.4.7.tgz
+influxdb-6.6.0.tgz
+mariadb-20.4.1.tgz
+mariadb-galera-14.2.0.tgz
+mongodb-sharded-9.2.0.tgz
+nginx-ingress-controller-11.6.10.tgz
+opensearch-1.6.1.tgz
+opensearch-1.6.2.tgz
+postgresql-ha-15.3.0.tgz
+rabbitmq-15.3.3.tgz
+redis-20.10.0.tgz
+sonarqube-8.0.5.tgz
+tempo-distributed-1.32.2.tgz
+
