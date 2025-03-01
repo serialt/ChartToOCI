@@ -6981,3 +6981,6 @@ redis-20.10.0.tgz
 sonarqube-8.0.5.tgz
 tempo-distributed-1.32.2.tgz
 
+keycloak-24.4.11.tgz
+minio-15.0.5.tgz
+
