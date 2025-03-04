@@ -6984,3 +6984,15 @@ tempo-distributed-1.32.2.tgz
 keycloak-24.4.11.tgz
 minio-15.0.5.tgz
 
+base-1.25.0.tgz
+gateway-1.25.0.tgz
+istiod-1.25.0.tgz
+mariadb-galera-14.2.1.tgz
+opensearch-1.6.3.tgz
+postgresql-16.4.15.tgz
+postgresql-16.4.16.tgz
+postgresql-ha-15.3.1.tgz
+postgresql-ha-15.3.3.tgz
+redis-20.10.1.tgz
+redis-20.11.0.tgz
+
