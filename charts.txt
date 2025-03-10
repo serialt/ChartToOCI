@@ -7015,3 +7015,7 @@ redis-20.11.2.tgz
 sonarqube-8.0.6.tgz
 vault-secrets-operator-0.10.0.tgz
 
+grafana-8.10.2.tgz
+tempo-1.18.3.tgz
+tempo-distributed-1.32.3.tgz
+
