@@ -7019,3 +7019,22 @@ grafana-8.10.2.tgz
 tempo-1.18.3.tgz
 tempo-distributed-1.32.3.tgz
 
+etcd-11.1.4.tgz
+etcd-11.1.5.tgz
+grafana-8.10.3.tgz
+grafana-operator-v5.17.0.tgz
+harbor-24.3.4.tgz
+keycloak-24.4.12.tgz
+loki-6.28.0.tgz
+minio-15.0.7.tgz
+mongodb-16.4.6.tgz
+mongodb-16.4.7.tgz
+nginx-19.0.2.tgz
+pgadmin4-1.36.0.tgz
+postgresql-16.5.0.tgz
+postgresql-ha-15.3.4.tgz
+prometheus-1.4.9.tgz
+redis-20.11.3.tgz
+tempo-distributed-1.32.4.tgz
+tempo-distributed-1.32.5.tgz
+
