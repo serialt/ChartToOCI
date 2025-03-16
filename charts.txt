@@ -7038,3 +7038,9 @@ redis-20.11.3.tgz
 tempo-distributed-1.32.4.tgz
 tempo-distributed-1.32.5.tgz
 
+harbor-24.4.0.tgz
+keycloak-24.4.13.tgz
+redis-cluster-11.4.5.tgz
+tempo-distributed-1.32.6.tgz
+tempo-distributed-1.32.7.tgz
+
