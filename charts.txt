@@ -7044,3 +7044,11 @@ redis-cluster-11.4.5.tgz
 tempo-distributed-1.32.6.tgz
 tempo-distributed-1.32.7.tgz
 
+csi-driver-nfs-4.11.0.tgz
+grafana-8.10.4.tgz
+loki-distributed-0.80.2.tgz
+postgresql-16.5.1.tgz
+postgresql-16.5.2.tgz
+postgresql-ha-15.3.5.tgz
+postgresql-ha-15.3.6.tgz
+
