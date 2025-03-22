@@ -7052,3 +7052,15 @@ postgresql-16.5.2.tgz
 postgresql-ha-15.3.5.tgz
 postgresql-ha-15.3.6.tgz
 
+etcd-11.1.6.tgz
+grafana-sampling-1.1.4.tgz
+mariadb-20.4.2.tgz
+mongodb-16.4.8.tgz
+opensearch-1.7.0.tgz
+opensearch-1.8.0.tgz
+postgresql-16.5.3.tgz
+postgresql-16.5.4.tgz
+postgresql-16.5.5.tgz
+postgresql-ha-15.3.7.tgz
+rabbitmq-15.4.0.tgz
+
