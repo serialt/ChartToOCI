@@ -7064,3 +7064,18 @@ postgresql-16.5.5.tgz
 postgresql-ha-15.3.7.tgz
 rabbitmq-15.4.0.tgz
 
+consul-1.4.9.tgz
+consul-1.5.6.tgz
+consul-1.6.3.tgz
+gitea-3.1.14.tgz
+harbor-24.4.1.tgz
+ingress-nginx-4.11.5.tgz
+ingress-nginx-4.12.1.tgz
+mongodb-16.4.9.tgz
+mysql-12.3.2.tgz
+postgresql-16.5.6.tgz
+postgresql-ha-15.3.8.tgz
+redis-20.11.4.tgz
+redis-cluster-11.4.6.tgz
+tempo-distributed-1.33.0.tgz
+
