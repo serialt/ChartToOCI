@@ -7079,3 +7079,20 @@ redis-20.11.4.tgz
 redis-cluster-11.4.6.tgz
 tempo-distributed-1.33.0.tgz
 
+base-1.24.4.tgz
+base-1.25.1.tgz
+elasticsearch-21.4.9.tgz
+gateway-1.24.4.tgz
+gateway-1.25.1.tgz
+gitea-3.2.0.tgz
+grafana-8.11.0.tgz
+harbor-24.5.0.tgz
+istiod-1.24.4.tgz
+istiod-1.25.1.tgz
+loki-6.29.0.tgz
+mongodb-16.4.10.tgz
+mongodb-sharded-9.2.1.tgz
+nginx-19.0.3.tgz
+nginx-ingress-controller-11.6.12.tgz
+tempo-1.19.0.tgz
+
