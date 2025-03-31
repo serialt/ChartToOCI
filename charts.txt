@@ -7096,3 +7096,10 @@ nginx-19.0.3.tgz
 nginx-ingress-controller-11.6.12.tgz
 tempo-1.19.0.tgz
 
+etcd-11.2.1.tgz
+minio-16.0.0.tgz
+mongodb-16.4.11.tgz
+postgresql-16.6.0.tgz
+rabbitmq-15.4.1.tgz
+vault-0.30.0.tgz
+
