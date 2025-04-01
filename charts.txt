@@ -7103,3 +7103,6 @@ postgresql-16.6.0.tgz
 rabbitmq-15.4.1.tgz
 vault-0.30.0.tgz
 
+grafana-sampling-1.1.5.tgz
+opensearch-1.8.1.tgz
+
