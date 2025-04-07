@@ -7131,3 +7131,11 @@ rabbitmq-cluster-operator-4.4.7.tgz
 sonarqube-8.0.7.tgz
 tempo-1.20.0.tgz
 
+elasticsearch-21.5.0.tgz
+grafana-8.11.3.tgz
+keycloak-24.5.0.tgz
+opensearch-1.9.0.tgz
+pgadmin4-1.37.0.tgz
+rabbitmq-15.5.0.tgz
+sonarqube-8.1.0.tgz
+
