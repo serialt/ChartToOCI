@@ -7178,3 +7178,27 @@ mimir-distributed-5.7.0.tgz
 nginx-19.0.5.tgz
 nginx-19.1.0.tgz
 
+base-1.24.5.tgz
+base-1.25.2.tgz
+elasticsearch-21.5.1.tgz
+gateway-1.24.5.tgz
+gateway-1.25.2.tgz
+grafana-8.12.0.tgz
+harbor-24.6.0.tgz
+influxdb-6.6.3.tgz
+influxdb-6.6.4.tgz
+influxdb-6.6.5.tgz
+istiod-1.24.5.tgz
+istiod-1.25.2.tgz
+mongodb-16.5.1.tgz
+mongodb-sharded-9.2.3.tgz
+mysql-12.3.4.tgz
+rabbitmq-15.5.2.tgz
+rabbitmq-15.5.3.tgz
+redis-20.12.0.tgz
+redis-cluster-11.5.1.tgz
+tempo-1.21.0.tgz
+tempo-distributed-1.36.0.tgz
+tempo-distributed-1.37.0.tgz
+tempo-distributed-1.38.0.tgz
+
