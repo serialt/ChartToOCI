@@ -7202,3 +7202,13 @@ tempo-distributed-1.36.0.tgz
 tempo-distributed-1.37.0.tgz
 tempo-distributed-1.38.0.tgz
 
+elasticsearch-21.6.0.tgz
+grafana-8.12.1.tgz
+harbor-1.17.0.tgz
+loki-distributed-0.80.3.tgz
+mimir-distributed-5.6.1.tgz
+minio-operator-0.1.6.tgz
+nginx-19.1.1.tgz
+redis-20.12.1.tgz
+tempo-distributed-1.38.1.tgz
+
