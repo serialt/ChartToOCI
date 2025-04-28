@@ -7246,3 +7246,14 @@ redis-20.13.1.tgz
 redis-20.13.2.tgz
 redis-cluster-11.5.3.tgz
 
+consul-1.4.10.tgz
+consul-1.5.7.tgz
+mariadb-20.5.3.tgz
+mongodb-16.5.2.tgz
+pgadmin4-1.39.0.tgz
+pgadmin4-1.39.1.tgz
+pgadmin4-1.39.2.tgz
+pgadmin4-1.40.0.tgz
+pgadmin4-1.40.1.tgz
+postgresql-16.6.6.tgz
+
