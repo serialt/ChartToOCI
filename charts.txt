@@ -7365,3 +7365,9 @@ redis-cluster-12.0.1.tgz
 sonarqube-8.1.5.tgz
 tempo-distributed-1.39.3.tgz
 
+gitea-3.2.7.tgz
+mysql-13.0.0.tgz
+postgresql-ha-16.0.4.tgz
+prometheus-2.0.6.tgz
+tempo-distributed-1.39.4.tgz
+
