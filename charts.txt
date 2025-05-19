@@ -7399,3 +7399,12 @@ redis-21.1.2.tgz
 redis-cluster-12.0.2.tgz
 redis-cluster-12.0.4.tgz
 
+elasticsearch-22.0.4.tgz
+etcd-11.3.5.tgz
+mongodb-16.5.8.tgz
+opensearch-2.0.1.tgz
+opensearch-2.0.2.tgz
+prometheus-2.0.7.tgz
+redis-21.1.3.tgz
+sonarqube-8.1.6.tgz
+
