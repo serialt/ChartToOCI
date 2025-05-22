@@ -7408,3 +7408,23 @@ prometheus-2.0.7.tgz
 redis-21.1.3.tgz
 sonarqube-8.1.6.tgz
 
+etcd-11.3.6.tgz
+grafana-9.0.1.tgz
+influxdb-6.6.14.tgz
+influxdb-6.6.15.tgz
+influxdb-6.6.16.tgz
+keycloak-24.7.0.tgz
+loki-6.30.0.tgz
+mongodb-16.5.10.tgz
+mongodb-16.5.11.tgz
+mongodb-16.5.9.tgz
+nginx-20.0.3.tgz
+opensearch-2.0.3.tgz
+postgresql-ha-16.0.6.tgz
+prometheus-2.0.8.tgz
+redis-21.1.4.tgz
+redis-21.1.5.tgz
+redis-cluster-12.0.5.tgz
+tempo-distributed-1.39.5.tgz
+tempo-distributed-1.40.0.tgz
+
