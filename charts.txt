@@ -7428,3 +7428,23 @@ redis-cluster-12.0.5.tgz
 tempo-distributed-1.39.5.tgz
 tempo-distributed-1.40.0.tgz
 
+etcd-12.0.0.tgz
+grafana-9.1.1.tgz
+grafana-9.2.0.tgz
+harbor-26.0.3.tgz
+harbor-26.1.0.tgz
+influxdb-7.0.1.tgz
+influxdb-7.0.2.tgz
+influxdb-7.0.3.tgz
+keycloak-24.7.1.tgz
+mariadb-20.5.6.tgz
+mariadb-galera-14.2.6.tgz
+minio-operator-0.1.11.tgz
+mongodb-sharded-9.2.7.tgz
+mongodb-sharded-9.3.0.tgz
+prometheus-2.1.0.tgz
+rabbitmq-16.0.3.tgz
+redis-21.1.6.tgz
+redis-cluster-12.0.6.tgz
+tempo-distributed-1.40.1.tgz
+
