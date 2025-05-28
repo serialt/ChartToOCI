@@ -7448,3 +7448,20 @@ redis-21.1.6.tgz
 redis-cluster-12.0.6.tgz
 tempo-distributed-1.40.1.tgz
 
+grafana-9.2.1.tgz
+harbor-1.16.4.tgz
+harbor-26.2.0.tgz
+harbor-26.3.0.tgz
+influxdb-7.1.0.tgz
+minio-operator-0.1.12.tgz
+postgresql-16.7.5.tgz
+postgresql-ha-16.0.7.tgz
+postgresql-ha-16.0.8.tgz
+redis-21.1.7.tgz
+redis-21.1.8.tgz
+redis-cluster-12.0.7.tgz
+tempo-distributed-1.40.2.tgz
+tempo-distributed-1.40.3.tgz
+tempo-distributed-1.40.4.tgz
+tempo-vulture-0.8.0.tgz
+
