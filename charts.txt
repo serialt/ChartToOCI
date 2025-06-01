@@ -7500,3 +7500,5 @@ redis-21.1.10.tgz
 redis-21.1.11.tgz
 redis-21.1.9.tgz
 
+prometheus-2.1.2.tgz
+
