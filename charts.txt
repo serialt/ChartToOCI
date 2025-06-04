@@ -7502,3 +7502,29 @@ redis-21.1.9.tgz
 
 prometheus-2.1.2.tgz
 
+elasticsearch-22.0.5.tgz
+etcd-12.0.1.tgz
+grafana-9.2.2.tgz
+metallb-0.15.0.tgz
+minio-17.0.1.tgz
+minio-operator-0.1.15.tgz
+mongodb-16.5.14.tgz
+mongodb-16.5.15.tgz
+mongodb-16.5.16.tgz
+mongodb-sharded-9.3.1.tgz
+mongodb-sharded-9.3.2.tgz
+pgadmin4-1.46.0.tgz
+pgadmin4-1.47.0.tgz
+postgresql-16.7.9.tgz
+postgresql-ha-16.0.10.tgz
+rabbitmq-16.0.5.tgz
+rabbitmq-cluster-operator-4.4.12.tgz
+rabbitmq-cluster-operator-4.4.13.tgz
+rabbitmq-cluster-operator-4.4.15.tgz
+rabbitmq-cluster-operator-4.4.16.tgz
+rabbitmq-cluster-operator-4.4.17.tgz
+sonarqube-8.1.7.tgz
+sonarqube-8.1.8.tgz
+tempo-distributed-1.41.0.tgz
+tempo-distributed-1.41.1.tgz
+
