@@ -7595,3 +7595,19 @@ tempo-1.23.1.tgz
 tempo-distributed-1.41.2.tgz
 tempo-distributed-1.42.0.tgz
 
+cert-manager-1.5.5.tgz
+elasticsearch-22.0.8.tgz
+gitea-3.2.10.tgz
+grafana-9.2.3.tgz
+mariadb-20.5.9.tgz
+mariadb-galera-14.2.9.tgz
+minio-operator-0.1.18.tgz
+mysql-13.0.2.tgz
+nginx-20.1.2.tgz
+postgresql-ha-16.0.14.tgz
+prometheus-2.1.7.tgz
+rabbitmq-16.0.8.tgz
+rabbitmq-cluster-operator-4.4.22.tgz
+redis-cluster-12.0.10.tgz
+tempo-distributed-1.42.1.tgz
+
