@@ -7634,3 +7634,13 @@ redis-21.2.4.tgz
 redis-21.2.5.tgz
 tempo-distributed-1.42.2.tgz
 
+base-1.26.2.tgz
+gateway-1.26.2.tgz
+gitea-3.2.11.tgz
+gitea-3.2.12.tgz
+istiod-1.26.2.tgz
+minio-17.0.6.tgz
+minio-operator-0.2.1.tgz
+opensearch-2.0.4.tgz
+postgresql-16.7.13.tgz
+
