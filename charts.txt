@@ -7644,3 +7644,12 @@ minio-operator-0.2.1.tgz
 opensearch-2.0.4.tgz
 postgresql-16.7.13.tgz
 
+elasticsearch-22.0.9.tgz
+influxdb-7.1.6.tgz
+minio-17.0.7.tgz
+minio-17.0.8.tgz
+minio-operator-0.2.2.tgz
+mongodb-16.5.24.tgz
+mongodb-sharded-9.4.0.tgz
+tempo-distributed-1.42.3.tgz
+
