@@ -7677,3 +7677,14 @@ rabbitmq-cluster-operator-4.4.23.tgz
 redis-21.2.6.tgz
 tempo-1.23.2.tgz
 
+consul-1.5.9.tgz
+consul-1.6.6.tgz
+consul-1.7.2.tgz
+elasticsearch-22.0.10.tgz
+harbor-26.7.8.tgz
+mariadb-21.0.1.tgz
+mariadb-galera-15.0.1.tgz
+mongodb-16.5.27.tgz
+nginx-21.0.2.tgz
+nginx-21.0.3.tgz
+
