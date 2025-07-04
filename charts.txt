@@ -7688,3 +7688,15 @@ mongodb-16.5.27.tgz
 nginx-21.0.2.tgz
 nginx-21.0.3.tgz
 
+cert-manager-1.5.7.tgz
+etcd-12.0.7.tgz
+influxdb-7.1.7.tgz
+keycloak-24.7.5.tgz
+nginx-ingress-controller-11.6.26.tgz
+postgresql-16.7.15.tgz
+postgresql-ha-16.0.16.tgz
+prometheus-2.1.10.tgz
+rabbitmq-16.0.10.tgz
+rabbitmq-cluster-operator-4.4.24.tgz
+tempo-vulture-0.9.0.tgz
+
