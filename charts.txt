@@ -7700,3 +7700,9 @@ rabbitmq-16.0.10.tgz
 rabbitmq-cluster-operator-4.4.24.tgz
 tempo-vulture-0.9.0.tgz
 
+grafana-9.2.10.tgz
+nginx-ingress-controller-11.6.27.tgz
+redis-21.2.7.tgz
+redis-cluster-12.0.11.tgz
+tempo-distributed-1.43.0.tgz
+
