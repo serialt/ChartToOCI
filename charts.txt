@@ -7738,3 +7738,19 @@ redis-cluster-12.0.12.tgz
 tempo-distributed-1.44.0.tgz
 tempo-distributed-1.44.1.tgz
 
+cert-manager-1.5.11.tgz
+elasticsearch-22.0.12.tgz
+etcd-12.0.9.tgz
+gitea-3.2.14.tgz
+gitea-3.2.15.tgz
+keycloak-24.7.7.tgz
+postgresql-16.7.17.tgz
+postgresql-16.7.18.tgz
+postgresql-ha-16.0.19.tgz
+postgresql-ha-16.0.20.tgz
+postgresql-ha-16.0.21.tgz
+redis-21.2.10.tgz
+sonarqube-8.1.10.tgz
+sonarqube-8.1.11.tgz
+tempo-distributed-1.45.0.tgz
+
