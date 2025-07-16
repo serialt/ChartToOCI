@@ -7754,3 +7754,27 @@ sonarqube-8.1.10.tgz
 sonarqube-8.1.11.tgz
 tempo-distributed-1.45.0.tgz
 
+elasticsearch-22.0.13.tgz
+etcd-12.0.10.tgz
+gitea-3.2.16.tgz
+gitea-3.2.17.tgz
+harbor-26.7.11.tgz
+loki-6.32.0.tgz
+mariadb-21.0.3.tgz
+minio-17.0.12.tgz
+minio-17.0.13.tgz
+mongodb-16.5.30.tgz
+mongodb-16.5.31.tgz
+mongodb-sharded-9.4.3.tgz
+mysql-13.0.4.tgz
+opensearch-2.0.6.tgz
+postgresql-16.7.19.tgz
+postgresql-ha-16.0.22.tgz
+prometheus-2.1.14.tgz
+prometheus-2.1.15.tgz
+rabbitmq-16.0.11.tgz
+redis-21.2.11.tgz
+redis-21.2.12.tgz
+redis-cluster-12.0.13.tgz
+sonarqube-8.1.12.tgz
+
