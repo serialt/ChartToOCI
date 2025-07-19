@@ -7778,3 +7778,14 @@ redis-21.2.12.tgz
 redis-cluster-12.0.13.tgz
 sonarqube-8.1.12.tgz
 
+etcd-12.0.11.tgz
+harbor-26.7.12.tgz
+influxdb-7.1.10.tgz
+influxdb-7.1.9.tgz
+minio-17.0.14.tgz
+mongodb-16.5.32.tgz
+nginx-21.0.7.tgz
+nginx-21.0.8.tgz
+nginx-ingress-controller-12.0.1.tgz
+postgresql-16.7.20.tgz
+
