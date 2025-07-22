@@ -7789,3 +7789,11 @@ nginx-21.0.8.tgz
 nginx-ingress-controller-12.0.1.tgz
 postgresql-16.7.20.tgz
 
+harbor-26.8.0.tgz
+keycloak-24.8.0.tgz
+minio-17.0.15.tgz
+minio-operator-0.2.5.tgz
+postgresql-16.7.21.tgz
+prometheus-2.1.16.tgz
+tempo-distributed-1.46.0.tgz
+
