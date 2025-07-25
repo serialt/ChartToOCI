@@ -7797,3 +7797,16 @@ postgresql-16.7.21.tgz
 prometheus-2.1.16.tgz
 tempo-distributed-1.46.0.tgz
 
+elasticsearch-22.0.14.tgz
+etcd-12.0.12.tgz
+etcd-12.0.13.tgz
+keycloak-24.8.1.tgz
+loki-6.33.0.tgz
+minio-17.0.16.tgz
+minio-operator-0.2.6.tgz
+mongodb-16.5.33.tgz
+mongodb-sharded-9.4.4.tgz
+mysql-14.0.0.tgz
+rabbitmq-cluster-operator-4.4.26.tgz
+redis-21.2.13.tgz
+
