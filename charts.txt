@@ -7810,3 +7810,9 @@ mysql-14.0.0.tgz
 rabbitmq-cluster-operator-4.4.26.tgz
 redis-21.2.13.tgz
 
+consul-1.6.7.tgz
+consul-1.7.3.tgz
+consul-1.8.0.tgz
+etcd-12.0.14.tgz
+grafana-9.3.0.tgz
+
