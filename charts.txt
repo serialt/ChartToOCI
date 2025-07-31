@@ -7816,3 +7816,14 @@ consul-1.8.0.tgz
 etcd-12.0.14.tgz
 grafana-9.3.0.tgz
 
+base-1.26.3.tgz
+elasticsearch-22.0.15.tgz
+gateway-1.26.3.tgz
+grafana-agent-0.44.2.tgz
+grafana-cloud-onboarding-0.1.1.tgz
+influxdb-7.1.11.tgz
+istiod-1.26.3.tgz
+loki-6.34.0.tgz
+tempo-distributed-1.46.1.tgz
+vault-0.30.1.tgz
+
