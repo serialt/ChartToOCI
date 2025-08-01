@@ -7827,3 +7827,9 @@ loki-6.34.0.tgz
 tempo-distributed-1.46.1.tgz
 vault-0.30.1.tgz
 
+mongodb-sharded-9.4.5.tgz
+nginx-21.0.9.tgz
+nginx-21.1.0.tgz
+nginx-ingress-controller-12.0.2.tgz
+tempo-distributed-1.46.2.tgz
+
