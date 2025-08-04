@@ -7833,3 +7833,12 @@ nginx-21.1.0.tgz
 nginx-ingress-controller-12.0.2.tgz
 tempo-distributed-1.46.2.tgz
 
+base-1.25.4.tgz
+elasticsearch-22.1.0.tgz
+gateway-1.25.4.tgz
+grafana-mcp-0.1.1.tgz
+harbor-26.8.2.tgz
+influxdb-7.1.12.tgz
+istiod-1.25.4.tgz
+nginx-21.1.1.tgz
+
