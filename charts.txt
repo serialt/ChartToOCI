@@ -7842,3 +7842,24 @@ influxdb-7.1.12.tgz
 istiod-1.25.4.tgz
 nginx-21.1.1.tgz
 
+cert-manager-1.5.13.tgz
+gitea-3.2.18.tgz
+grafana-9.3.1.tgz
+grafana-cloud-onboarding-0.2.0.tgz
+grafana-operator-v5.19.1.tgz
+grafana-operator-v5.19.2.tgz
+grafana-operator-v5.19.3.tgz
+grafana-operator-v5.19.4.tgz
+harbor-1.17.2.tgz
+keycloak-24.9.0.tgz
+loki-6.35.0.tgz
+loki-6.35.1.tgz
+mongodb-16.5.36.tgz
+postgresql-ha-16.1.0.tgz
+rabbitmq-16.0.12.tgz
+rabbitmq-cluster-operator-4.4.27.tgz
+rabbitmq-cluster-operator-4.4.28.tgz
+rabbitmq-cluster-operator-4.4.29.tgz
+redis-21.2.14.tgz
+sonarqube-8.1.13.tgz
+
