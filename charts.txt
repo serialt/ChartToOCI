@@ -7904,3 +7904,16 @@ redis-cluster-13.0.1.tgz
 sonarqube-8.1.16.tgz
 tempo-distributed-1.46.3.tgz
 
+base-1.27.0.tgz
+gateway-1.27.0.tgz
+grafana-9.3.2.tgz
+harbor-27.0.0.tgz
+influxdb-7.1.16.tgz
+ingress-nginx-4.12.5.tgz
+ingress-nginx-4.13.1.tgz
+istiod-1.27.0.tgz
+keycloak-25.0.1.tgz
+keycloak-25.0.2.tgz
+nginx-ingress-controller-12.0.5.tgz
+pgadmin4-1.48.0.tgz
+
