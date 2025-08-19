@@ -7959,3 +7959,12 @@ redis-22.0.3.tgz
 redis-cluster-13.0.2.tgz
 tempo-1.23.3.tgz
 
+mariadb-22.0.0.tgz
+mariadb-galera-16.0.0.tgz
+nginx-21.1.22.tgz
+nginx-21.1.23.tgz
+redis-22.0.4.tgz
+redis-cluster-13.0.3.tgz
+tempo-distributed-1.46.4.tgz
+tempo-vulture-0.9.1.tgz
+
