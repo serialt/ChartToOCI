@@ -7968,3 +7968,18 @@ redis-cluster-13.0.3.tgz
 tempo-distributed-1.46.4.tgz
 tempo-vulture-0.9.1.tgz
 
+consul-1.8.1.tgz
+grafana-9.3.3.tgz
+keycloak-25.1.1.tgz
+keycloak-25.1.2.tgz
+keycloak-25.2.0.tgz
+loki-6.37.0.tgz
+mimir-distributed-5.8.0.tgz
+opensearch-2.0.10.tgz
+opensearch-2.0.9.tgz
+postgresql-ha-16.2.3.tgz
+postgresql-ha-16.3.0.tgz
+postgresql-ha-16.3.1.tgz
+rabbitmq-16.0.14.tgz
+rabbitmq-cluster-operator-4.4.34.tgz
+
