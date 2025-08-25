@@ -7983,3 +7983,9 @@ postgresql-ha-16.3.1.tgz
 rabbitmq-16.0.14.tgz
 rabbitmq-cluster-operator-4.4.34.tgz
 
+grafana-9.3.4.tgz
+mongodb-16.5.45.tgz
+pgadmin4-1.49.0.tgz
+redis-22.0.5.tgz
+redis-cluster-13.0.4.tgz
+
