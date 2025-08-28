@@ -7989,3 +7989,20 @@ pgadmin4-1.49.0.tgz
 redis-22.0.5.tgz
 redis-cluster-13.0.4.tgz
 
+consul-1.6.8.tgz
+consul-1.7.4.tgz
+grafana-9.3.5.tgz
+grafana-9.3.6.tgz
+grafana-mcp-0.1.2.tgz
+influxdb-7.1.19.tgz
+loki-6.38.0.tgz
+mariadb-galera-16.0.1.tgz
+mongodb-sharded-9.4.12.tgz
+postgresql-16.7.27.tgz
+postgresql-ha-16.3.2.tgz
+redis-22.0.6.tgz
+redis-22.0.7.tgz
+sonarqube-8.1.17.tgz
+tempo-distributed-1.46.5.tgz
+tempo-distributed-1.47.0.tgz
+
