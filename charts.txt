@@ -8006,3 +8006,12 @@ sonarqube-8.1.17.tgz
 tempo-distributed-1.46.5.tgz
 tempo-distributed-1.47.0.tgz
 
+grafana-9.4.0.tgz
+grafana-9.4.1.tgz
+grafana-9.4.2.tgz
+grafana-9.4.3.tgz
+influxdb-7.1.20.tgz
+ingress-nginx-4.12.6.tgz
+ingress-nginx-4.13.2.tgz
+tempo-distributed-1.47.1.tgz
+
