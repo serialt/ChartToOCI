@@ -8015,3 +8015,14 @@ ingress-nginx-4.12.6.tgz
 ingress-nginx-4.13.2.tgz
 tempo-distributed-1.47.1.tgz
 
+base-1.25.5.tgz
+base-1.26.4.tgz
+base-1.27.1.tgz
+gateway-1.25.5.tgz
+gateway-1.26.4.tgz
+gateway-1.27.1.tgz
+grafana-9.4.4.tgz
+istiod-1.25.5.tgz
+istiod-1.26.4.tgz
+istiod-1.27.1.tgz
+
