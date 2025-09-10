@@ -8030,3 +8030,5 @@ grafana-cloud-onboarding-0.2.2.tgz
 grafana-mcp-0.1.3.tgz
 loki-6.39.0.tgz
 
+loki-6.40.0.tgz
+
