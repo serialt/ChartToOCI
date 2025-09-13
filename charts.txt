@@ -8032,3 +8032,7 @@ loki-6.39.0.tgz
 
 loki-6.40.0.tgz
 
+grafana-9.4.5.tgz
+tempo-distributed-1.47.2.tgz
+tempo-distributed-1.47.3.tgz
+
