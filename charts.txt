@@ -8045,3 +8045,5 @@ tempo-distributed-1.48.0.tgz
 
 pgadmin4-1.50.0.tgz
 
+loki-6.41.0.tgz
+
