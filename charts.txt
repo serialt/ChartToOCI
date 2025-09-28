@@ -8047,3 +8047,8 @@ pgadmin4-1.50.0.tgz
 
 loki-6.41.0.tgz
 
+loki-6.41.1.tgz
+vault-0.31.0.tgz
+vault-secrets-operator-1.0.0.tgz
+vault-secrets-operator-1.0.1.tgz
+
