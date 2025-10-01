@@ -8052,3 +8052,6 @@ vault-0.31.0.tgz
 vault-secrets-operator-1.0.0.tgz
 vault-secrets-operator-1.0.1.tgz
 
+ingress-nginx-4.12.7.tgz
+ingress-nginx-4.13.3.tgz
+
