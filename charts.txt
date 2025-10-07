@@ -8057,3 +8057,9 @@ ingress-nginx-4.13.3.tgz
 
 loki-6.42.0.tgz
 
+mariadb-23.0.4.tgz
+mongodb-18.0.5.tgz
+nginx-22.0.7.tgz
+postgresql-18.0.7.tgz
+redis-23.0.10.tgz
+
