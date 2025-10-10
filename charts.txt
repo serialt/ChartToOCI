@@ -8063,3 +8063,11 @@ nginx-22.0.7.tgz
 postgresql-18.0.7.tgz
 redis-23.0.10.tgz
 
+consul-1.6.10.tgz
+consul-1.7.6.tgz
+consul-1.8.3.tgz
+csi-driver-nfs-4.12.0.tgz
+nginx-22.0.10.tgz
+postgresql-18.0.8.tgz
+redis-23.1.1.tgz
+
