@@ -8101,3 +8101,16 @@ mongodb-18.1.1.tgz
 postgresql-18.0.16.tgz
 postgresql-18.0.17.tgz
 
+base-1.26.6.tgz
+base-1.27.3.tgz
+gateway-1.26.6.tgz
+gateway-1.27.3.tgz
+grafana-operator-v5.20.0.tgz
+istiod-1.26.6.tgz
+istiod-1.27.3.tgz
+mariadb-23.2.1.tgz
+nginx-22.1.1.tgz
+postgresql-18.1.1.tgz
+redis-23.1.7.tgz
+redis-23.2.1.tgz
+
