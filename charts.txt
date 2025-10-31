@@ -8131,3 +8131,13 @@ tempo-distributed-1.52.1.tgz
 tempo-distributed-1.52.2.tgz
 tempo-vulture-0.10.0.tgz
 
+consul-1.9.0.tgz
+grafana-10.1.3.tgz
+grafana-10.1.4.tgz
+loki-6.45.0.tgz
+loki-6.45.1.tgz
+nginx-22.2.3.tgz
+tempo-distributed-1.52.3.tgz
+tempo-distributed-1.52.4.tgz
+tempo-distributed-1.52.5.tgz
+
