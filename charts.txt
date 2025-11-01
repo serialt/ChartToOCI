@@ -8141,3 +8141,9 @@ tempo-distributed-1.52.3.tgz
 tempo-distributed-1.52.4.tgz
 tempo-distributed-1.52.5.tgz
 
+loki-6.45.2.tgz
+loki-canary-0.14.1.tgz
+loki-distributed-0.80.6.tgz
+loki-stack-2.10.3.tgz
+mimir-distributed-6.0.0.tgz
+
