@@ -8147,3 +8147,13 @@ loki-distributed-0.80.6.tgz
 loki-stack-2.10.3.tgz
 mimir-distributed-6.0.0.tgz
 
+grafana-agent-operator-0.5.2.tgz
+ingress-nginx-4.12.8.tgz
+ingress-nginx-4.13.4.tgz
+ingress-nginx-4.14.0.tgz
+mimir-distributed-6.0.1.tgz
+redis-23.2.3.tgz
+tempo-distributed-1.52.6.tgz
+tempo-distributed-1.52.7.tgz
+tempo-distributed-1.52.8.tgz
+
