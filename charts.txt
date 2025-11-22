@@ -8206,3 +8206,11 @@ tempo-distributed-1.56.1.tgz
 postgresql-18.1.10.tgz
 tempo-distributed-1.56.2.tgz
 
+grafana-10.1.5.tgz
+grafana-10.2.0.tgz
+grafana-cloud-onboarding-0.3.1.tgz
+mongodb-18.1.10.tgz
+postgresql-18.1.11.tgz
+redis-24.0.0.tgz
+tempo-1.24.1.tgz
+
