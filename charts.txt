@@ -8214,3 +8214,6 @@ postgresql-18.1.11.tgz
 redis-24.0.0.tgz
 tempo-1.24.1.tgz
 
+grafana-mcp-0.2.2.tgz
+postgresql-18.1.12.tgz
+
