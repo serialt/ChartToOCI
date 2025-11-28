@@ -8217,3 +8217,8 @@ tempo-1.24.1.tgz
 grafana-mcp-0.2.2.tgz
 postgresql-18.1.12.tgz
 
+grafana-cloud-onboarding-0.4.0.tgz
+mariadb-24.0.0.tgz
+nginx-22.3.3.tgz
+postgresql-18.1.13.tgz
+
