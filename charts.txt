@@ -8222,3 +8222,5 @@ mariadb-24.0.0.tgz
 nginx-22.3.3.tgz
 postgresql-18.1.13.tgz
 
+mimir-distributed-6.0.4.tgz
+
