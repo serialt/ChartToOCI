@@ -8224,3 +8224,19 @@ postgresql-18.1.13.tgz
 
 mimir-distributed-6.0.4.tgz
 
+base-1.26.7.tgz
+base-1.27.4.tgz
+base-1.28.1.tgz
+consul-1.7.8.tgz
+consul-1.8.6.tgz
+consul-1.9.1.tgz
+gateway-1.26.7.tgz
+gateway-1.27.4.tgz
+gateway-1.28.1.tgz
+grafana-10.3.0.tgz
+istiod-1.26.7.tgz
+istiod-1.27.4.tgz
+istiod-1.28.1.tgz
+mimir-distributed-6.0.5.tgz
+tempo-distributed-1.57.0.tgz
+
