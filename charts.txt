@@ -8246,3 +8246,7 @@ ingress-nginx-4.13.5.tgz
 ingress-nginx-4.14.1.tgz
 metallb-0.15.3.tgz
 
+harbor-1.17.3.tgz
+harbor-1.18.1.tgz
+loki-6.48.0.tgz
+
