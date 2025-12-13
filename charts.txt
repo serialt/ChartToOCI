@@ -8250,3 +8250,16 @@ harbor-1.17.3.tgz
 harbor-1.18.1.tgz
 loki-6.48.0.tgz
 
+grafana-10.3.1.tgz
+grafana-cloud-onboarding-0.4.3.tgz
+loki-6.49.0.tgz
+mariadb-24.0.1.tgz
+mongodb-18.1.16.tgz
+nginx-22.3.8.tgz
+redis-24.0.4.tgz
+redis-24.0.7.tgz
+tempo-distributed-1.57.1.tgz
+tempo-distributed-1.58.0.tgz
+tempo-distributed-1.58.1.tgz
+vault-secrets-operator-1.1.0.tgz
+
