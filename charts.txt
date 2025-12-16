@@ -8263,3 +8263,10 @@ tempo-distributed-1.58.0.tgz
 tempo-distributed-1.58.1.tgz
 vault-secrets-operator-1.1.0.tgz
 
+grafana-operator-5.21.1.tgz
+mariadb-24.0.2.tgz
+mongodb-18.1.17.tgz
+nginx-22.3.9.tgz
+postgresql-18.1.14.tgz
+redis-24.0.8.tgz
+
