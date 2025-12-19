@@ -8270,3 +8270,15 @@ nginx-22.3.9.tgz
 postgresql-18.1.14.tgz
 redis-24.0.8.tgz
 
+grafana-10.3.2.tgz
+grafana-10.4.0.tgz
+grafana-cloud-onboarding-0.4.4.tgz
+grafana-operator-5.21.2.tgz
+grafana-operator-5.21.3.tgz
+mongodb-18.1.18.tgz
+mongodb-18.1.19.tgz
+postgresql-18.1.15.tgz
+redis-24.0.9.tgz
+redis-24.1.0.tgz
+tempo-distributed-1.59.0.tgz
+
