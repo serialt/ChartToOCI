@@ -8284,3 +8284,19 @@ tempo-distributed-1.59.0.tgz
 
 mongodb-18.1.20.tgz
 
+base-1.26.8.tgz
+base-1.27.5.tgz
+base-1.28.2.tgz
+consul-1.7.9.tgz
+consul-1.8.7.tgz
+consul-1.9.2.tgz
+gateway-1.26.8.tgz
+gateway-1.27.5.tgz
+gateway-1.28.2.tgz
+istiod-1.26.8.tgz
+istiod-1.27.5.tgz
+istiod-1.28.2.tgz
+nginx-22.4.0.tgz
+postgresql-18.2.0.tgz
+tempo-distributed-1.60.0.tgz
+
