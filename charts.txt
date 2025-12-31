@@ -8300,3 +8300,8 @@ nginx-22.4.0.tgz
 postgresql-18.2.0.tgz
 tempo-distributed-1.60.0.tgz
 
+grafana-10.4.1.tgz
+grafana-10.4.2.tgz
+nginx-22.4.1.tgz
+nginx-22.4.2.tgz
+
