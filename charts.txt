@@ -8316,3 +8316,8 @@ grafana-operator-5.21.4.tgz
 grafana-10.5.4.tgz
 grafana-10.5.5.tgz
 
+mariadb-24.0.3.tgz
+pgadmin4-1.56.1.tgz
+tempo-1.24.2.tgz
+vault-secrets-operator-1.2.0.tgz
+
