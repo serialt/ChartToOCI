@@ -8321,3 +8321,10 @@ pgadmin4-1.56.1.tgz
 tempo-1.24.2.tgz
 vault-secrets-operator-1.2.0.tgz
 
+grafana-10.5.6.tgz
+grafana-10.5.7.tgz
+grafana-10.5.8.tgz
+nginx-22.4.3.tgz
+pgadmin4-1.57.0.tgz
+tempo-1.24.3.tgz
+
