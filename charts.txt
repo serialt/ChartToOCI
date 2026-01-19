@@ -8328,3 +8328,8 @@ nginx-22.4.3.tgz
 pgadmin4-1.57.0.tgz
 tempo-1.24.3.tgz
 
+grafana-mcp-0.3.0.tgz
+mongodb-18.1.23.tgz
+redis-24.1.2.tgz
+vault-0.32.0.tgz
+
