@@ -8333,3 +8333,13 @@ mongodb-18.1.23.tgz
 redis-24.1.2.tgz
 vault-0.32.0.tgz
 
+base-1.28.3.tgz
+gateway-1.28.3.tgz
+istiod-1.28.3.tgz
+loki-6.50.0.tgz
+loki-6.51.0.tgz
+mongodb-18.2.0.tgz
+mongodb-18.3.0.tgz
+postgresql-18.2.1.tgz
+postgresql-18.2.3.tgz
+
