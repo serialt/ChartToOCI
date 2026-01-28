@@ -8349,3 +8349,10 @@ grafana-10.5.12.tgz
 grafana-10.5.9.tgz
 tempo-distributed-1.61.0.tgz
 
+grafana-10.5.13.tgz
+harbor-1.17.4.tgz
+harbor-1.18.2.tgz
+ingress-nginx-4.13.6.tgz
+ingress-nginx-4.14.2.tgz
+tempo-distributed-1.61.1.tgz
+
