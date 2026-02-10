@@ -8380,3 +8380,11 @@ redis-24.1.3.tgz
 loki-6.52.0.tgz
 nginx-22.4.7.tgz
 
+base-1.27.6.tgz
+gateway-1.27.6.tgz
+istiod-1.27.6.tgz
+mariadb-24.1.0.tgz
+mariadb-24.1.1.tgz
+postgresql-18.2.5.tgz
+redis-24.1.6.tgz
+
