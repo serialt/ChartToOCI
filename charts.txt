@@ -8388,3 +8388,14 @@ mariadb-24.1.1.tgz
 postgresql-18.2.5.tgz
 redis-24.1.6.tgz
 
+csi-driver-nfs-4.13.1.tgz
+loki-6.53.0.tgz
+mongodb-18.4.6.tgz
+mongodb-18.4.8.tgz
+postgresql-18.2.6.tgz
+postgresql-18.2.9.tgz
+postgresql-18.3.0.tgz
+redis-24.1.8.tgz
+redis-25.0.0.tgz
+redis-25.2.0.tgz
+
