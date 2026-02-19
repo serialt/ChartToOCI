@@ -8402,3 +8402,19 @@ redis-25.2.0.tgz
 pgadmin4-1.58.0.tgz
 pgadmin4-1.59.0.tgz
 
+base-1.27.7.tgz
+base-1.28.4.tgz
+base-1.29.0.tgz
+gateway-1.27.7.tgz
+gateway-1.28.4.tgz
+gateway-1.29.0.tgz
+istiod-1.27.7.tgz
+istiod-1.28.4.tgz
+istiod-1.29.0.tgz
+mariadb-24.2.0.tgz
+mariadb-25.0.0.tgz
+mongodb-18.5.0.tgz
+nginx-22.5.0.tgz
+postgresql-18.4.0.tgz
+redis-25.3.0.tgz
+
