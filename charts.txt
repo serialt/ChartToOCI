@@ -8430,3 +8430,7 @@ postgresql-18.4.1.tgz
 redis-25.3.1.tgz
 redis-25.3.2.tgz
 
+nginx-22.5.2.tgz
+nginx-22.5.3.tgz
+postgresql-18.5.1.tgz
+
