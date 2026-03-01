@@ -8434,3 +8434,7 @@ nginx-22.5.2.tgz
 nginx-22.5.3.tgz
 postgresql-18.5.1.tgz
 
+consul-1.7.12.tgz
+consul-1.8.10.tgz
+consul-1.9.5.tgz
+
