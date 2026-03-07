@@ -8441,3 +8441,7 @@ consul-1.9.5.tgz
 nginx-22.5.4.tgz
 nginx-22.5.5.tgz
 
+nginx-22.6.0.tgz
+nginx-22.6.1.tgz
+postgresql-18.5.2.tgz
+
