@@ -8445,3 +8445,8 @@ nginx-22.6.0.tgz
 nginx-22.6.1.tgz
 postgresql-18.5.2.tgz
 
+ingress-nginx-4.13.8.tgz
+ingress-nginx-4.14.4.tgz
+ingress-nginx-4.15.0.tgz
+postgresql-18.5.5.tgz
+
