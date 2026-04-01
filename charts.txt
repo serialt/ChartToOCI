@@ -8510,3 +8510,7 @@ postgresql-18.5.14.tgz
 redis-25.3.8.tgz
 redis-25.3.9.tgz
 
+consul-1.7.13.tgz
+consul-1.8.11.tgz
+consul-1.9.6.tgz
+
