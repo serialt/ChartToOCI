@@ -8514,3 +8514,6 @@ consul-1.7.13.tgz
 consul-1.8.11.tgz
 consul-1.9.6.tgz
 
+mongodb-18.6.21.tgz
+postgresql-18.5.15.tgz
+
