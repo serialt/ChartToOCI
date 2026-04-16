@@ -8534,3 +8534,15 @@ nginx-22.6.12.tgz
 postgresql-18.5.17.tgz
 redis-25.3.11.tgz
 
+base-1.28.6.tgz
+base-1.29.2.tgz
+gateway-1.28.6.tgz
+gateway-1.29.2.tgz
+istiod-1.28.6.tgz
+istiod-1.29.2.tgz
+mongodb-18.6.26.tgz
+nginx-23.0.0.tgz
+postgresql-18.5.18.tgz
+postgresql-18.5.19.tgz
+postgresql-18.5.20.tgz
+
