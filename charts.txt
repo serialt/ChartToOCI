@@ -8560,3 +8560,13 @@ postgresql-18.6.0.tgz
 postgresql-18.6.1.tgz
 redis-25.3.12.tgz
 
+grafana-cloud-onboarding-0.4.6.tgz
+loki-7.0.0.tgz
+mariadb-25.0.10.tgz
+mongodb-18.6.29.tgz
+mongodb-18.6.31.tgz
+nginx-23.0.3.tgz
+postgresql-18.6.2.tgz
+redis-25.4.0.tgz
+redis-25.4.1.tgz
+
