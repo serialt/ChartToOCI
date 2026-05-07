@@ -8573,3 +8573,10 @@ redis-25.4.1.tgz
 consul-1.8.12.tgz
 consul-1.9.7.tgz
 
+grafana-cloud-onboarding-0.4.7.tgz
+harbor-1.19.0.tgz
+mariadb-25.1.0.tgz
+redis-25.5.0.tgz
+redis-25.5.1.tgz
+vault-secrets-operator-1.4.0.tgz
+
