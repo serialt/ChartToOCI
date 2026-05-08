@@ -35,7 +35,7 @@ jobs:
       if: ${{ steps.sync_to_oci.outputs.SET_COMMIT != '' }}
       run: |
         git config --global user.email "tserialt@gmail.com"
-        git config --global user.name "serialt"
+        git config --global user.name "Tang"
         git config --global --add safe.directory /github/workspace
         git add charts.txt
         git commit -m "feat: add (Github Actions Automatically Built in `date +"%Y-%m-%d %H:%M"`)"
