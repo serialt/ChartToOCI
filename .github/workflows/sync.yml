@@ -3,10 +3,9 @@ name: sync
 on:
   push:
     branches:
-      - master
-      - main
+      - quay
   schedule:
-    - cron: "0 2 */3 * *"
+    - cron: "0 6 */3 * *"
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -25,9 +24,9 @@ jobs:
     - name: sync to oci
       id: sync_to_oci
       env:
-        OCI_REPO_DOMAIN: ${{ secrets.OCI_REPO_DOMAIN }}
-        OCI_USERNAME: ${{ secrets.OCI_USERNAME }}
-        OCI_PASSWORD: ${{ secrets.OCI_PASSWORD }}
+        OCI_REPO_DOMAIN: ${{ secrets.OCI_REPO_DOMAIN2 }}
+        OCI_USERNAME: ${{ secrets.OCI_USERNAME2 }}
+        OCI_PASSWORD: ${{ secrets.OCI_PASSWORD2 }}
       run: |
         bash -x sync.sh
     
