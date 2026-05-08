@@ -8580,3 +8580,10 @@ redis-25.5.0.tgz
 redis-25.5.1.tgz
 vault-secrets-operator-1.4.0.tgz
 
+mariadb-25.1.1.tgz
+mongodb-18.6.34.tgz
+mongodb-18.7.0.tgz
+nginx-23.0.4.tgz
+postgresql-18.6.3.tgz
+redis-25.5.2.tgz
+
