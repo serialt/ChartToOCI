@@ -1,3 +1,6 @@
 ## ChartToOCI
 
-sync chart to docker hub
+sync chart to quay.io
+
+
+search chart by [quay.io](https://quay.io/user/serialt/)
