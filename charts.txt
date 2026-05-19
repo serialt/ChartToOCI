@@ -8602,3 +8602,14 @@ nginx-24.0.0.tgz
 postgresql-18.6.5.tgz
 postgresql-18.6.6.tgz
 
+base-1.28.7.tgz
+base-1.29.3.tgz
+base-1.30.0.tgz
+gateway-1.28.7.tgz
+gateway-1.29.3.tgz
+gateway-1.30.0.tgz
+istiod-1.28.7.tgz
+istiod-1.29.3.tgz
+istiod-1.30.0.tgz
+postgresql-18.6.7.tgz
+
