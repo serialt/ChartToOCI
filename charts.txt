@@ -8617,3 +8617,8 @@ grafana-operator-5.23.0.tgz
 metallb-0.16.0.tgz
 nginx-24.0.1.tgz
 
+consul-1.8.13.tgz
+consul-1.9.8.tgz
+consul-2.0.0.tgz
+nginx-24.0.2.tgz
+
