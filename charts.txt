@@ -8628,3 +8628,13 @@ mariadb-25.1.3.tgz
 metallb-0.16.1.tgz
 mongodb-19.0.7.tgz
 
+mariadb-25.1.4.tgz
+mongodb-19.0.9.tgz
+nginx-24.0.3.tgz
+nginx-24.0.4.tgz
+pgadmin4-1.63.0.tgz
+pgadmin4-1.64.0.tgz
+postgresql-18.6.10.tgz
+postgresql-18.6.8.tgz
+postgresql-18.6.9.tgz
+
